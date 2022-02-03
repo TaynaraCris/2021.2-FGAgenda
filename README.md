@@ -32,7 +32,7 @@ Apesar de existirem muitas agendas no mercado, nenhuma delas é voltada e person
 
 ## 1.3 Objetivos do Produto
 
-O produto visa facilitar a organização pessoal do usuário com relação a seu tempo, por meio da junção, na aplicação, de todos os eventos e metas do usuário, sendo todos esses bem detalhados na própria aplicação. Mais especificamente, o produto visa o público alvo de alunos da UnB e, dessa forma, objetiva que esses usuários possam adicionar eventos que seguem a grade horária da faculdade mais facilmente, diferentemente de outros tipos de eventos.
+O produto visa facilitar a organização pessoal do usuário com relação a seu tempo, por meio da junção, na aplicação, de todos os eventos e metas do usuário, sendo todos esses bem detalhados na própria aplicação. Mais especificamente, o produto visa o público alvo de alunos da UnB e, dessa forma, objetiva que esses usuários possam adicionar eventos que seguem a grade horária da faculdade mais facilmente.
 
 # 2. Abordagem de desenvolvimento de software
 
