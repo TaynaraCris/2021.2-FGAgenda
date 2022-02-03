@@ -10,7 +10,7 @@ Repositório da Equipe GAMA referente ao projeto FGAgenda da disciplina de MDS
 | Nome | Matrícula |
 | - | - |
 | Pedro Henrique Yamaguti Soares | 190094508 |
-| Luis Henrique Luz Costa | 180066161 |
+| Luis Henrique Luz Costa | 18/0066161 |
 | Marcos Santos Bittar | 200023748 |
 | Leonardo Milomes Vitoriano | 20/1000379 |
 | Taynara Cristina Ribeiro Marcellos | 211031833 |
