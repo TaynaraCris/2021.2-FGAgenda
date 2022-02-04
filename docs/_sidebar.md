@@ -6,7 +6,7 @@
 
 - Projeto e Produto
 
-  - [Visão do Produto e Projeto](produto-projeto/prod-proj.md)
+  - [Visão do Produto e Projeto](project/project.md)
 <!--
 ---
 
