@@ -16,28 +16,15 @@
 
 <br/>
 
-## 📄 Sobre o projeto
-
-> A FGAgenda tem como principal objetivo centralizar todas as atividades curriculares e extracurriculares dos discentes da UnB em uma só lugar.  
-<br/>
-
-## 📦 Entregas
-  Unidade 1 - 03 de Fevereiro de 2022
-  - [Vídeo - Apresentação: Visão do Produto e Projeto](https://youtu.be/F8BgfqlM-iw)
-  - [Visão do Produto e Projeto](https://docs.google.com/document/d/1s0Ep9wo8qqDCAMRPquAa0BBtVpkZ6MTB/edit?usp=sharing&ouid=103124122170044265084&rtpof=true&sd=true)
-
 # 📄 Sobre o projeto
 
-A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organização do seu tempo. O projeto consiste em uma página web que facilita os discentes na organização de suas tarefas, podendo ser tanto relacionadas com a universidade quanto aos seus hobbies. Na agenda será possível adicionar eventos, metas e uma to-do list para cada meta/evento. Também será possível enviar convites de eventos, como aulas ou monitorias, e caso o usuário aceite o convite, será adicionado o evento automaticamente na sua agenda.
-
-> [Nosso GitHub Pages](https://fgaunb-mds-gm.github.io/2021.2-FGAgenda/#/)
+A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organização do seu tempo. O projeto consiste em uma página web que facilita os discentes na organização de suas tarefas, podendo ser tanto relacionadas com a universidade quanto aos seus hobbies. Na agenda será possível adicionar eventos, metas e uma to-do list para cada meta/evento. Também será possível enviar convites de eventos, como aulas ou monitorias, e caso o usuário aceite o convite, o evento será adicionado automaticamente na sua agenda.
 
 # 📦 Releases
 
 Release 17 de janeiro - 3 fevereiro
 
-  - [Vídeo Metodologias/Produtividade](https://www.youtube.com/watch?v=F8BgfqlM-iw).
-  - [Visão do Produto e Projeto](https://docs.google.com/document/d/1s0Ep9wo8qqDCAMRPquAa0BBtVpkZ6MTB/edit?usp=sharing&ouid=103124122170044265084&rtpof=true&sd=true)
+* [Metodologias/Produtividade](https://www.youtube.com/watch?v=F8BgfqlM-iw).
 
 # ⚙️ Tecnologias utilizadas
 
@@ -55,9 +42,11 @@ Primeiro verifique se você atende aos seguintes requisitos:
 
 # 🤝 Colaboradores
 
+
+
 #  📜 Documentação
 
-A documentação pode ser encontrada na [nossa página](https://fgaunb-mds-gm.github.io/2021.2-FGAgenda/#/).
+A documentação pode ser encontrada na [nossa página](https://fgaunb-mds-gm.github.io/2021.2-FGAgenda/#/) do Github pages.
 <!--
 ## ⚙️ Tecnologias utilizadas
 As tecnologias foram determinadas de acordo com a necessidade das atividades a serem desenvolvidas.
