@@ -8,7 +8,7 @@ A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organiza�
 
 Release 17 de janeiro - 3 fevereiro
 
-[Metodologias/Produtividade](https://www.youtube.com/watch?v=F8BgfqlM-iw).
+> [Metodologias/Produtividade](https://www.youtube.com/watch?v=F8BgfqlM-iw).
 
 # ⚙️ Tecnologias utilizadas
 
