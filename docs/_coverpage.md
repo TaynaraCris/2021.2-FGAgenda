@@ -6,7 +6,7 @@
 
 <!-- background image -->
 
-![logo_cover]()
+![logo_cover](_media/FGAgenda-logo.jpg)
 
 <!-- background color -->
 
