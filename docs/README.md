@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-   <img src=""></img>
+   <img src="">https://github.com/FGAUnB-MDS-GM/2021.2-FGAgenda/blob/main/docs/_media/logo_cover.jpeg</img>
 </p>
 
 <br/>
