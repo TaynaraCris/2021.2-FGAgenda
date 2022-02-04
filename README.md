@@ -6,7 +6,7 @@ A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organiza�
 
 Release 17 de janeiro - 3 fevereiro
 
-[Vídeo de Metodologias/Produtividade](https://www.youtube.com/watch?v=F8BgfqlM-iw).
+[Metodologias/Produtividade](https://www.youtube.com/watch?v=F8BgfqlM-iw).
 
 # Tecnologias utilizadas
 
@@ -15,4 +15,10 @@ As tecnologias foram escolhidas de acordo com as necessidades das atividades a s
 | Frontend |	Backend |
 | - | - |
 | HTML / CSS | Django (Python FrameWork) |
+
+# Pré-requisitos
+
+Primeiro verifique se você atende aos seguintes requisitos:
+
+* Ter instalado a versão mais recente de <Python / v3.8>
 
