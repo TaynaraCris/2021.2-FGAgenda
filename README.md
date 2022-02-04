@@ -24,3 +24,8 @@ Primeiro verifique se você atende aos seguintes requisitos:
 
 * Ter instalado a versão mais recente de <Python / v3.8>
 
+# 🤝 Colaboradores
+
+#  📜 Documentação
+
+A documentação pode ser encontrada na [nossa página](https://fgaunb-mds-gm.github.io/2021.2-FGAgenda/#/).
