@@ -8,7 +8,12 @@ Release 17 de janeiro - 3 fevereiro
 
 [Metodologias/Produtividade](https://www.youtube.com/watch?v=F8BgfqlM-iw).
 
+# Tecnologias utilizadas
 
+As tecnologias foram escolhidas de acordo com as necessidades das atividades a serem desenvolvidas e habilidades dos integrantes do grupo.
+
+| Frontend |	Backend |
+| HTML / CSS | Django (Python FrameWork) |
 
 # 2021.2-FGAgenda
 Repositório da Equipe GAMA referente ao projeto FGAgenda da disciplina de MDS
