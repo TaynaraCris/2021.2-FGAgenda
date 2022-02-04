@@ -1,5 +1,5 @@
 - [Home](/)
-- [Sobre](/README.md)
+- [Sobre](/README)
 
 ---
 ---
@@ -9,39 +9,57 @@
   - [Visão do Produto e Projeto](produto-projeto/prod-proj.md)
 <!--
 ---
+
 - Projeto
+
   - [TAP](/produto/tap/tap)
   - [EAP](/produto/eap/eap)
   - [Canvas](/produto/canvas/CANVAS-MDS1)
   - [Metodologia](/produto/metodologia/metodologia)
   - [Ferramentas Utilizadas](/produto/ferramentas/ferramentas)
   - [RoadMap de Desenvolvimento](/produto/roadmap/roadmap_v1)
+
 ---
+
 - Produto
+
   - [Documento de Visão](/produto/Visao/Visao)
   - [Backlog do Produto](/produto/backlog/backlog)
   - [Arquitetura](/produto/Arquitetura/Arquitetura)
   - [Identidade Visual](/produto/Identidade_Visual/IdentidadeVisual)
+
 ---
+
 - Utilizando Tecnologias
+
   - [React](produto/pesquisa_tecnologias/react)
   - [Django](produto/pesquisa_tecnologias/django)
   - [MongoDB](produto/pesquisa_tecnologias/mongoDB)
+
 ---
+
 - Prototipos
+
   - Baixa Fidelidade
+
     - [Time A](/produto/prototipo/prototipo)
     - [Time B](/produto/prototipo/prototipo-tipoB)
     - [Time C](/produto/prototipo/prototipo-timeC)
+
   - Alta Fidelidade
     - [Time A](/produto/protótipo_alta_fidelidade/protótipo_avaliação_timeA)
     - [Time B](/produto/protótipo_alta_fidelidade/protótipo_relatorio_timeB)
     - [Time C](/produto/protótipo_alta_fidelidade/protótipo_alta_fidelidade_timeC)
+
 ---
+
 - [Politicas do Repositório](politicas/policies)
 - [Sugestão de Fluxo de Trabalho](politicas/workflow)
+
 ---
+
 - Sprints
+
   <details>
     <summary> Time A</summary>
       <details>
@@ -136,6 +154,7 @@
       </ul>
       </details>
     </details>
+
     <details>
     <summary> Time B</summary>
      <details>
@@ -229,6 +248,7 @@
       </ul>
       </details>
       </details>
+
     <details>
     <summary> Time C</summary>
      <details>
