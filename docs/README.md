@@ -18,7 +18,7 @@
 
 ## 📄 Sobre o projeto
 
-> Adicionar TEXTo
+> A FGAgenda tem como principal objetivo centralizar todas as atividades curriculares e extracurriculares dos discentes da UnB em uma só lugar.  
 <br/>
 
 ## 📦 Entregas
