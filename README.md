@@ -2,8 +2,6 @@
 
 A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organização do seu tempo. O projeto consiste em uma página web que facilita os discentes na organização de suas tarefas, podendo ser tanto relacionadas com a universidade quanto aos seus hobbies. Na agenda será possível adicionar eventos, metas e uma to-do list para cada meta/evento. Também será possível enviar convites de eventos, como aulas ou monitorias, e caso o usuário aceite o convite, o evento será adicionado automaticamente na sua agenda.
 
-* [Nosso GitHub Pages](https://fgaunb-mds-gm.github.io/2021.2-FGAgenda/#/)
-
 # 📦 Releases
 
 Release 17 de janeiro - 3 fevereiro
@@ -28,4 +26,4 @@ Primeiro verifique se você atende aos seguintes requisitos:
 
 #  📜 Documentação
 
-A documentação pode ser encontrada na [nossa página](https://fgaunb-mds-gm.github.io/2021.2-FGAgenda/#/).
+A documentação pode ser encontrada na [nossa página](https://fgaunb-mds-gm.github.io/2021.2-FGAgenda/#/) do Github pages.
