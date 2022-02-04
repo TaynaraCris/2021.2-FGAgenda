@@ -13,6 +13,7 @@ Release 17 de janeiro - 3 fevereiro
 As tecnologias foram escolhidas de acordo com as necessidades das atividades a serem desenvolvidas e habilidades dos integrantes do grupo.
 
 | Frontend |	Backend |
+| - | - |
 | HTML / CSS | Django (Python FrameWork) |
 
 # 2021.2-FGAgenda
