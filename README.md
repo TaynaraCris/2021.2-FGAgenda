@@ -12,7 +12,7 @@ A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organiza�
 
 Release 17 de janeiro - 3 fevereiro
 
-* [Visão do produto e projeto](https://www.youtube.com/watch?v=F8BgfqlM-iw).
+* [Visão do produto e projeto (Vídeo)](https://www.youtube.com/watch?v=F8BgfqlM-iw).
 
 # ⚙️ Tecnologias utilizadas
 
