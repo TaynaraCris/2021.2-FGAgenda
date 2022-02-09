@@ -40,7 +40,7 @@ Primeiro verifique se você atende aos seguintes requisitos:
 
 * Ter instalado a versão mais recente de <Python / v3.8>
 
-# 🤝 Colaboradores
+<> (# 🤝 Colaboradores)
 
 
 
