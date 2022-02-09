@@ -92,7 +92,7 @@ python ./manage.py runserver
 ```
 **Para mais informações, consulte a seção Utilizando Tecnologias em nossa [Página](https://fga-eps-mds.github.io/2021-1-hospitalar)**
 <br/>
-## 🤝 Colaboradores
+<> ## 🤝 Colaboradores
 -->
 <!--
 Arquiteto: rosa #FF00FF
