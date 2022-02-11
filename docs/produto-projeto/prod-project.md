@@ -35,11 +35,11 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 ### 2.1 Metodologia
 
 A partir dos fatores propostos por Sommerville (SOMMERVILLE, 2011), para avaliação quanto a utilização de uma abordagem dirigida a plano ou ágil, a equipe utilizou os seguintes:
-Sistema. 
+ 1. Sistema.
 Nas questões técnicas, o sistema a ser desenvolvido é considerado médio-grande devido ao escopo da aplicação, a qual será realizada para a Web (responsiva) e possui vida útil até o final do semestre 2021/2, pois o produto é focado, principalmente, para os alunos na UnB, portanto, contará com funcionalidades específicas para o público-alvo. Além do que,  as atividades do sistema não precisará passar por análise com o objetivo de verificar se estão de acordo com as normas estabelecidas pelo Governo por Lei, ou seja, não será auditável.  
-Equipe. 
+ 2. Equipe.
 O nível de competência da equipe é satisfatório para as tecnologias escolhidas para produzir a aplicação, e como ocorrerá a rotatividade dos desenvolvedores do back-end e do front-end, a equipe pode ser considerada full-stack, ainda tendo como suporte para o sistema as tecnologias: Django/Python, HTML/CSS, PWA, Git/GitHub, Figma, Microsoft Teams, ZenHub.
-Organização. 
+ 3. Organização. 
 Nos aspectos organizacionais, não é necessário uma especificação detalhada dos requisitos antes de começar a implementação, além do que o Product Owner será parte da equipe, e com a entrega de uma funcionalidade da aplicação por semana, o objetivo principal é a valorização do produto como um todo.  
 De acordo com as características do produto com relação às questões técnicas, humanas e organizacionais, a metodologia escolhida pela equipe foi a Metodologia Ágil, e dentro dela, o Framework Scrum.  
 Tendo em vista os aspectos do sistema, o Scrum possibilita desenvolver, de maneira mais eficiente,  uma aplicação a partir do tamanho do escopo definido,  médio-grande, em um prazo curto-médio, de 4 a 5 meses, pois a Framework utiliza-se, principalmente, da construção de um Backlog e de Sprints.
