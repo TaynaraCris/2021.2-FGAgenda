@@ -35,7 +35,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 ### 2.1 Metodologia
 
 A partir dos fatores propostos por Sommerville (SOMMERVILLE, 2011), para avaliação quanto a utilização de uma abordagem dirigida a plano ou ágil, a equipe utilizou os seguintes:
- 1. Sistema.
+1. Sistema.
 <p>Nas questões técnicas, o sistema a ser desenvolvido é considerado médio-grande devido ao escopo da aplicação, a qual será realizada para a Web (responsiva) e possui vida útil até o final do semestre 2021/2, pois o produto é focado, principalmente, para os alunos na UnB, portanto, contará com funcionalidades específicas para o público-alvo. Além do que,  as atividades do sistema não precisará passar por análise com o objetivo de verificar se estão de acordo com as normas estabelecidas pelo Governo por Lei, ou seja, não será auditável.</p>
  2. Equipe.
 <p>O nível de competência da equipe é satisfatório para as tecnologias escolhidas para produzir a aplicação, e como ocorrerá a rotatividade dos desenvolvedores do back-end e do front-end, a equipe pode ser considerada full-stack, ainda tendo como suporte para o sistema as tecnologias: Django/Python, HTML/CSS, PWA, Git/GitHub, Figma, Microsoft Teams, ZenHub. </p>
