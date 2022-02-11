@@ -1,7 +1,7 @@
 # Visão do Produto e Projeto
 
-### [Vídeo da apresentação](https://www.youtube.com/watch?v=F8BgfqlM-iw)
-### [visão do produto e projeto em formato PDF](produto-projeto/FGAgenda-VisaodoProdutoeProjeto-Unidade1.pdf)
+#### [Vídeo da apresentação](https://www.youtube.com/watch?v=F8BgfqlM-iw)
+#### [Visão do produto e projeto em formato PDF](produto-projeto/FGAgenda-VisaodoProdutoeProjeto-Unidade1.pdf)
 
 ## 1. Visão Geral do Produto
 
