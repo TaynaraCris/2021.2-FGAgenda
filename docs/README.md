@@ -16,6 +16,15 @@
 
 <br/>
 
+
+| Nome | Matrícula |
+| - | - |
+| Pedro Henrique Yamaguti Soares | 19/0094508 |
+| Luis Henrique Luz Costa | 18/0066161 |
+| Marcos Santos Bittar | 20/0023748 |
+| Leonardo Milomes Vitoriano | 20/1000379 |
+| Taynara Cristina Ribeiro Marcellos | 21/1031833 |
+
 # 📄 Sobre o projeto
 
 A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organização do seu tempo. O projeto consiste em uma página web que facilita os discentes na organização de suas tarefas, podendo ser tanto relacionadas com a universidade quanto aos seus hobbies. Na agenda será possível adicionar eventos, metas e uma to-do list para cada meta/evento. Também será possível enviar convites de eventos, como aulas ou monitorias, e caso o usuário aceite o convite, o evento será adicionado automaticamente na sua agenda.
