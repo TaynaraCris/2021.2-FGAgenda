@@ -184,6 +184,61 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
  
 ### 1.4.2 Requisitos Não-Funcionais
 
+<table>
+<thead>
+  <tr>
+    <th>Requisitos Não Funcionais (Classificação)</th>
+    <th>HISTÓRIA (Req. Não Funcionais)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="4">Requisitos Organizacionais</td>
+    <td>O backend do produto deve ser desenvolvido em Django</td>
+  </tr>
+  <tr>
+    <td>O frontend do produto será desenvolvido em HTML/CSS</td>
+  </tr>
+  <tr>
+    <td>O protótipo do front end será feito no Figma</td>
+  </tr>
+  <tr>
+    <td>A responsidade do produto será feita utilizando a aplicação PWA</td>
+  </tr>
+  <tr>
+    <td>Requisitos Legislativos</td>
+    <td>O produto esteja de acordo com a LGPD (Lei geral de proteção de dados)</td>
+  </tr>
+  <tr>
+    <td>Requisito de segurança da informação</td>
+    <td>Eu, como usuário do produto, desejo que todas as minhas informações sejam <br>criptografadas </td>
+  </tr>
+  <tr>
+    <td rowspan="6">Requisitos de Usabilidade</td>
+    <td>A agenda deve ser organizada em uma tabela (linhas e colunas), para uma melhor vizualização das minhas atividades</td>
+  </tr>
+  <tr>
+    <td>O produto deve abrir um pop-up <br>quando para criar um evento com todos os dias e possíveis <br>frequências</td>
+  </tr>
+  <tr>
+    <td>Deve ser possível ver tanto a agenda da semana quanto do mês</td>
+  </tr>
+  <tr>
+    <td>O produto deve abrir um pop-up <br>quando para criar uma meta com todos os dias e possíveis <br>frequências</td>
+  </tr>
+  <tr>
+    <td>O produto deve ser acessível via mobile e Desktop</td>
+  </tr>
+  <tr>
+    <td>O sistema deve apresentar um calendario em formato Gregoriano</td>
+  </tr>
+  <tr>
+    <td>Requisito de espaço</td>
+    <td>O produto deve funcionar nos seguintes Browsers: chrome, safari,<br> firefox para android, microsoft edge, Brave e Opera</td>
+  </tr>
+</tbody>
+</table>
+
 ## 2. Abordagem de desenvolvimento de software
 
 ### 2.1 Metodologia
