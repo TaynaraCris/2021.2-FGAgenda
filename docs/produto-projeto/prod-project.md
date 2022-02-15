@@ -30,6 +30,160 @@ Apesar de existirem muitas agendas no mercado, nenhuma delas é voltada e person
 ### 1.3 Objetivos do Produto
 O produto visa facilitar a organização pessoal do usuário com relação a seu tempo, por meio da junção, na aplicação, de todos os eventos e metas do usuário, sendo todos esses bem detalhados na própria aplicação. Mais especificamente, o produto visa o público alvo de alunos da UnB e, dessa forma, objetiva que esses usuários possam adicionar eventos que seguem a grade horária da faculdade mais facilmente, diferentemente de outros tipos de eventos.
 
+### 1.4 Escopo do Produto
+
+#### 1.4.1 Requisitos Funcionais
+
+<table style="width:100%">
+<thead>
+  <tr>
+    <th>ÉPICO</th>
+    <th>FEATURE</th>
+    <th>ID</th>
+    <th>HISTÓRIA (Req. Funcionais )</th>
+    <th>PRIORIDADE</th>
+    <th>PONTUAÇÃO</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="4">Usuários</td>
+    <td rowspan="2">Autenticação</td>
+    <td>US - 01</td>
+    <td>Eu, como usuário do produto, desejo realizar login na plataforma, para que eu possa ter acesso às funcionalidades da mesma</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 02</td>
+    <td>Eu, como usuário do produto, desejo realizar logout, para que eu possa desconectar a minha conta da plataforma</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>US - 03</td>
+    <td>Eu, como usuário do produto, desejo recuperar a senha do meu perfil, para que eu possa voltar a ter acesso às funcionalidades do sistema caso minha senha seja esquecida</td>
+    <td>BAIXA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 04</td>
+    <td>Eu, como usuário do produto, desejo alterar os dados do meu perfil, para que eu possa mantê-los sempre atualizados</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="17">Agenda</td>
+    <td rowspan="5">Gerenciamento de Metas</td>
+    <td>US - 05</td>
+    <td>Eu, como usuário do produto, desejo cadastrar uma Meta na minha agenda, para saber ao certo o dia que preciso terminar determinada tarefa</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 06</td>
+    <td>Eu, como usuário do produto, desejo editar minhas Metas, para que elas posssam estar sempre atualizadas</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 07</td>
+    <td>eu, como usuário da aplicação, desejo compartilhar metas da minha agenda com<br>outros usuários.</td>
+    <td>BAIXA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 08</td>
+    <td>Eu, como usuário do produto, desejo receber notificações de qualquer meta com antecedência para que possa me programar. Também desejo poder escolher a frequência das notificações</td>
+    <td>MÉDIA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 09</td>
+    <td>Eu, como usuário do produto, desejo remover uma Meta, caso eu queira, para poder organizar minha agenda</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="8">Gerenciamento de Eventos</td>
+    <td>US - 10</td>
+    <td>Eu, como usuário do produto, desejo cadastrar um Evento na minha agenda, para saber ao certo o dia e hora que tal Evento ocorrerá</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 11</td>
+    <td>Eu, como usuário do produto, desejo editar meus Eventos, para que eles posssam estar sempre atualizados</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 12</td>
+    <td>Eu, como usuário do produto, desejo poder remover um Evento, caso eu queira, para organizar melhor minha agenda</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 13</td>
+    <td>Eu, como usuário do produto, desejo poder enviar e receber convites de eventos, para que possam já ser adicionados na minha agenda automaticamente, caso aceitos</td>
+    <td>BAIXA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 14</td>
+    <td> Eu, como usuário do produto, no momento de cadastrar uma Evento, desejo adicionar uma frequência/periodicidade dessa meta na minha agenda</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 15</td>
+    <td>eu, como usuário da aplicação, desejo compartilhar eventos da minha agenda com<br>outros usuários.</td>
+    <td>BAIXA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 16</td>
+    <td>Eu, como usuário do produto, desejo receber notificações de qualquer evento com antecedência para que possa me programar. Também desejo poder escolher a frequência das notificações</td>
+    <td>MÉDIA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 17</td>
+    <td>Eu, como usuário do produto, desejo incluir o código do horário no formato fornecido pela UnB e preencher de forma automática na agenda</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4">Gerenciamento de TO-DO list</td>
+    <td>US - 18</td>
+    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento e Meta , para que dessa forma fique claro o que preciso fazer em cada atividade</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 19</td>
+    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists), para que elas posssam estar sempre atualizadas</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 20</td>
+    <td>Eu, como usuário do produto, desejo poder remover uma lista de atividades (TO-DO list) de um Evento ou Meta, caso eu queira, para poder organizar minha agenda</td>
+    <td>ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 21</td>
+    <td>Eu, como usuário do produto, desejo saber qual a porcentagem das tarefas que já realizei, para que possa ter uma noção da minha evolução nelas</td>
+    <td>MÉDIA</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+ 
+### 1.4.2 Requisitos Não-Funcionais
+
 ## 2. Abordagem de desenvolvimento de software
 
 ### 2.1 Metodologia
