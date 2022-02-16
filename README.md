@@ -23,8 +23,8 @@ A FGAgenda tem como principal intuito auxiliar os estudantes da UnB na organiza�
 Release 17 de janeiro - 3 fevereiro
 
 * [Visão do produto e projeto (Vídeo)](https://www.youtube.com/watch?v=F8BgfqlM-iw).
-* [Visão de produto e projeto](docs/produto-projeto/prod-project.md)
-* [Visão de produto e projeto 2](docs/produto-projeto/prod-project2.md)
+* [Visão de produto e projeto v1](docs/produto-projeto/prod-project.md)
+* [Visão de produto e projeto v2](docs/produto-projeto/prod-project2.md)
 
 Release  4 - 24 fevereiro
 
