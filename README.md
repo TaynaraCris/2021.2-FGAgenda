@@ -24,10 +24,11 @@ Release 17 de janeiro - 3 fevereiro
 
 * [Visão do produto e projeto (Vídeo)](https://www.youtube.com/watch?v=F8BgfqlM-iw).
 * [Visão de produto e projeto v1](docs/produto-projeto/prod-project.md)
-* [Visão de produto e projeto v2](docs/produto-projeto/prod-project2.md)
+
 
 Release  4 - 24 fevereiro
 
+* [Visão de produto e projeto v2](docs/produto-projeto/prod-project2.md)
 
 # ⚙️ Tecnologias utilizadas
 
