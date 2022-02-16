@@ -53,9 +53,10 @@ Primeiro verifique se você atende aos seguintes requisitos:
 
 # 🤝 Colaboradores
 
-|![leo](https://user-images.githubusercontent.com/54339291/153503849-9c985926-cf63-496d-8ec6-e5539c2a6db5.jpeg)|![luishenrrique](https://user-images.githubusercontent.com/54339291/153497229-9eab2aa0-9551-44e2-95be-1ad4024c83c5.png)|![pedro](https://user-images.githubusercontent.com/54339291/153504271-0e983c72-a534-47af-b393-9d528a1dc766.jpeg)|![tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
-| - | - | - | - |
-|[leonardomilv3](https://github.com/leonardomilv3)|[luishenrrique](https://github.com/luishenrrique)|[PeedroHY](https://github.com/PeedroHY)|[TaynaraCris](https://github.com/TaynaraCris)|
+|![leo](https://user-images.githubusercontent.com/54339291/153503849-9c985926-cf63-496d-8ec6-e5539c2a6db5.jpeg)|![luishenrrique](https://user-images.githubusercontent.com/54339291/153497229-9eab2aa0-9551-44e2-95be-1ad4024c83c5.png)|![71234052](https://user-images.githubusercontent.com/54339291/154172284-23d19165-8f8b-4a4c-b704-af0cc5295ee8.jpeg)|![pedro](https://user-images.githubusercontent.com/54339291/153504271-0e983c72-a534-47af-b393-9d528a1dc766.jpeg)|![tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
+| - | - | - | - | - |
+|[leonardomilv3](https://github.com/leonardomilv3)|[luishenrrique](https://github.com/luishenrrique)|[Bittarx](https://github.com/Bittarx)|[PeedroHY](https://github.com/PeedroHY)|[TaynaraCris](https://github.com/TaynaraCris)|
+
 
 #  📜 Documentação
 
