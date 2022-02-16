@@ -188,7 +188,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 <thead>
   <tr>
     <th>Requisitos Não Funcionais (Classificação)</th>
-    <th>HISTÓRIA (Req. Não Funcionais)</th>
+    <th>RNf</th>
   </tr>
 </thead>
 <tbody>
