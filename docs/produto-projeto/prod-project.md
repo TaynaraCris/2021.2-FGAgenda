@@ -260,24 +260,6 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-20
 	* US-21
 
-Já nos Requisitos Não-Funcionais (RFNs) são:
-
-* **Requisitos Organizacionais:**
-	* O backend do produto deve ser desenvolvido no Framework Django.
-	* O frontend do produto será desenvolvido em HTML/CSS.
-	* O protótipo do front end será feito no Figma.
-	* A responsidade do produto será feita utilizando a aplicação PWA.
-* **Requisitos Legislativos:**
-  * O produto esteja de acordo com a LGPD (Lei geral de proteção de dados).
-* **Requisito de segurança da informação:**
-  * O produto deve ter as informações de login do usuário criptografadas.
-* **Requisitos de Usabilidade:**
-  * A agenda deve ser organizada em uma tabela (linhas e colunas), para uma melhor vizualização das minhas atividades.
-  * O produto deve ser acessível via mobile, tablet e desktop.
-* **Requisitos de Usabilidade:**
-  * O produto deve funcionar nos seguintes Browsers: chrome, safari,
-firefox para android, microsoft edge, Brave e Opera.
-
   
 ## 2. Abordagem de desenvolvimento de software
 
