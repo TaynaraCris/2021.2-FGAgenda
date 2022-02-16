@@ -39,7 +39,7 @@ Release 17 de janeiro - 3 fevereiro
 
 Release 4 de fevereiro - 24 fevereiro
 
-* [Visão de produto e projeto - Unidade 2](docs/produto-projeto/prod-project2.md)
+* [Visão de produto e projeto - Unidade 2](produto-projeto/prod-project2.md)
 
 # ⚙️ Tecnologias utilizadas
 
