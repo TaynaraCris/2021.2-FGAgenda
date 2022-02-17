@@ -358,7 +358,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4">Requisitos Organizacionais</td>
+    <td rowspan="4">Requisitos de Implementação</td>
     <td>O backend do produto deve ser desenvolvido em Django</td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td>A agenda deve ser organizada em uma tabela (linhas e colunas), para uma melhor vizualização das minhas atividades</td>
   </tr>
   <tr>
-    <td>O produto deve abrir um pop-up <br>quando para criar um evento com todos os dias e possíveis <br>frequências</td>
+    <td>O produto deve fazer uso de pop-ups</td>
   </tr>
   <tr>
     <td>Deve ser possível ver tanto a agenda da semana quanto do mês</td>
@@ -398,8 +398,8 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td>O sistema deve apresentar um calendario em formato Gregoriano</td>
   </tr>
   <tr>
-    <td>Requisito de espaço</td>
-    <td>O produto deve funcionar nos seguintes Browsers: chrome, safari,<br> firefox para android, microsoft edge, Brave e Opera</td>
+    <td>Requisito de Portabilidade</td>
+    <td>O produto deve funcionar nos seguintes Browsers: Chrome 85</td>
   </tr>
 </tbody>
 </table>
