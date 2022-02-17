@@ -92,7 +92,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>US - 11</td>
-    <td>Eu, como usuário de produto, ao criar uma Meta desejo poder escolher cumpri-lá ao longo do dia ou em um horário específico</td>
+    <td>Eu, como usuário de produto, ao criar uma Meta desejo poder escolher cumpri-lá ao longo do dia e em um horário específico</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
@@ -411,19 +411,29 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 * **Usuários:**
 	* US-01
 	* US-02
+	* US-03
 * **Agenda:**
+	* US-04 
 	* US-05
 	* US-06
-	* US-09
 	* US-10
 	* US-11
 	* US-12
+	* US-13
 	* US-14
+	* US-15
+	* US-16
 	* US-17
-	* US-18
-	* US-19
 	* US-20
 	* US-21
+	* US-22
+	* US-23
+	* US-24
+	* US-25
+	* US-26
+	* US-27
+	* US-28
+	* US-29
 
   
 ## 2. Abordagem de desenvolvimento de software
