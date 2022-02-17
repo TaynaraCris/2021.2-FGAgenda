@@ -78,115 +78,115 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   <tr>
     <td>US - 08</td>
     <td>Eu, como usuário do produto, no momento de cadastrar a Meta desejo ter a opção de receber notificações personalizadas para que possa me programar </td>
-    <td align="center">MÉDIA</td>
+    <td align="center">BAIXA</td>
   </tr>
   <tr>
     <td>US - 09</td>
     <td>Eu, como usuário do produto, desejo marcar como completa uma Meta realizada</td>
-    <td align="center">ALTA</td>
+    <td align="center">MÉDIA</td>
   </tr>
   <tr>
-    <td>US - 09</td>
+    <td>US - 10</td>
     <td>Eu, como usuário do produto, desejo remover uma Meta, caso eu queira, para poder organizar minha agenda</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 09</td>
+    <td>US - 11</td>
     <td>Eu, como usuário de produto, ao criar uma Meta desejo poder escolher cumpri-lá ao longo do dia ou em um horário específico</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 10</td>
+    <td>US - 12</td>
     <td>Eu, como usuário do produto, desejo cadastrar um Evento na minha agenda, para saber ao certo o dia e hora que tal Evento ocorrerá</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 11</td>
+    <td>US - 13</td>
     <td>Eu, como usuário do produto, desejo editar meus Eventos, para que eles posssam estar sempre atualizados</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 12</td>
+    <td>US - 14</td>
     <td>Eu, como usuário do produto, desejo poder remover um Evento, caso eu queira, para organizar melhor minha agenda</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 13</td>
+    <td>US - 15</td>
     <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo adicionar a hora do Evento</td>
-    <td align="center">BAIXA</td>
-  </tr>
-  <tr>
-    <td>US - 13</td>
-    <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo adicionar o dia do Evento</td>
-    <td align="center">BAIXA</td>
-  </tr>
-  <tr>
-    <td>US - 13</td>
-    <td>Eu, como usuário do produto,  no momento de cadastrar um Evento, desejo escolher o nome do Evento, para que eu possa saber o que esse evento está se referindo</td>
-    <td align="center">BAIXA</td>
-  </tr>
-  <tr>
-    <td>US - 14</td>
-    <td> Eu, como usuário do produto, no momento de cadastrar uma Evento, desejo adicionar uma frequência/periodicidade dessa meta na minha agenda</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 15</td>
+    <td>US - 16</td>
+    <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo adicionar o dia do Evento</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 17</td>
+    <td>Eu, como usuário do produto,  no momento de cadastrar um Evento, desejo escolher o nome do Evento, para que eu possa saber o que esse evento está se referindo</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 18</td>
+    <td> Eu, como usuário do produto, no momento de cadastrar uma Evento, desejo adicionar uma frequência/periodicidade dessa meta na minha agenda</td>
+    <td align="center">MÉDIA</td>
+  </tr>
+  <tr>
+    <td>US - 19</td>
     <td>Eu, como usuário do produto, desejo receber notificações de qualquer Evento com antecedência para que possa me programar.</td>
     <td align="center">BAIXA</td>
   </tr>
   <tr>
-    <td>US - 16</td>
-    <td>Eu, como usuário do produto, no momento de cadastrar um Evento desejo escolher se será do tipo Aula ou apenas Evento</td>
-    <td align="center">MÉDIA</td>
-  </tr>
-  <tr>
-    <td>US - 17</td>
-    <td>Eu, como usuário do produto,  no momento de cadastrar uma Aula (tipo de Evento), desejo escolher como o horário da minha Aula será cadastrado (código ou horário)</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
-    <td>US - 18</td>
-    <td>Eu, como usuário do produto, desejo de cadastrar uma tarefa na minha TO-DO list, para que eu possa saber o que fazer</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
-    <td>US - 18</td>
-    <td>Eu, como usuário do produto, desejo de editar uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
-    <td>US - 18</td>
-    <td>Eu, como usuário do produto, desejo de excluir uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
-    <td>US - 18</td>
-    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
-    <td>US - 18</td>
-    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
-    <td>US - 19</td>
-    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de um Evento, para que elas posssam estar sempre atualizadas</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
-    <td>US - 19</td>
-    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de uma Meta, para que elas posssam estar sempre atualizadas</td>
-    <td align="center">ALTA</td>
-  </tr>
-  <tr>
     <td>US - 20</td>
-    <td>Eu, como usuário do produto, desejo poder remover uma lista de atividades (TO-DO list) de um Evento ou Meta, caso eu queira, para poder organizar minha agenda</td>
+    <td>Eu, como usuário do produto, no momento de cadastrar um Evento desejo escolher se será do tipo Aula ou apenas Evento</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
     <td>US - 21</td>
+    <td>Eu, como usuário do produto,  no momento de cadastrar uma Aula (tipo de Evento), desejo escolher como o horário da minha Aula será cadastrado (código ou horário)</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 22</td>
+    <td>Eu, como usuário do produto, desejo de cadastrar uma tarefa na minha TO-DO list, para que eu possa saber o que fazer</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 23</td>
+    <td>Eu, como usuário do produto, desejo de editar uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 24</td>
+    <td>Eu, como usuário do produto, desejo de excluir uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 25</td>
+    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 26</td>
+    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de uma Meta, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 27</td>
+    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de um Evento, para que elas posssam estar sempre atualizadas</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 28</td>
+    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de uma Meta, para que elas posssam estar sempre atualizadas</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 29</td>
+    <td>Eu, como usuário do produto, desejo poder remover uma lista de atividades (TO-DO list) de um Evento ou Meta, caso eu queira, para poder organizar minha agenda</td>
+    <td align="center">ALTA</td>
+  </tr>
+  <tr>
+    <td>US - 30</td>
     <td>Eu, como usuário do produto, desejo saber qual a porcentagem das tarefas que já realizei, para que possa ter uma noção da minha evolução nelas</td>
     <td align="center">MÉDIA</td>
   </tr>
