@@ -178,6 +178,12 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
 </tbody>
 </table>
+
+|         Legenda (prioridades)  |Definição 	                                                  |
+| :----------------------------: | :------------------------------------------------------------------------------------ |
+| Alta                           |  Requisitos sem os quais a aplicação é considerada incompleta |
+| Média                          |  Requisitos importantes que podem ser postergados      |
+| Baixa                          |  Requisitos sem os quais o Sistema funciona de maneira satisfatória   |
  
 ### 1.4.2 Requisitos Não-Funcionais
 
