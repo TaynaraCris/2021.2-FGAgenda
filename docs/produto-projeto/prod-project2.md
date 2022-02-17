@@ -46,17 +46,17 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 01</td>
+    <td>US - 02</td>
     <td>Eu, como usuário do produto, desejo realizar login na plataforma, para que eu possa ter acesso às funcionalidades da mesma</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 02</td>
+    <td>US - 03</td>
     <td>Eu, como usuário do produto, desejo realizar logout, para que eu possa desconectar a minha conta da plataforma</td>
     <td align="center">ALTA</td>
   </tr>
   <tr>
-    <td>US - 05</td>
+    <td>US - 04</td>
     <td>Eu, como usuário do produto, desejo cadastrar uma Meta na minha agenda, para saber ao certo o dia que preciso terminar determinada tarefa</td>
     <td align="center">ALTA</td>
   </tr>
