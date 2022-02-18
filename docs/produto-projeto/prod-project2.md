@@ -31,315 +31,374 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 
 #### 1.4.1 Requisitos Funcionais
 
-<table>
+<!--<table>-->
+<!--<thead>-->
+<!--  <tr>-->
+<!--    <th>ID</th>-->
+<!--    <th>HISTÓRIA (Req. Funcionais )</th>-->
+<!--    <th>PRIORIDADE</th>-->
+<!--  </tr>-->
+<!--</thead>-->
+<!--<tbody>-->
+<!--  <tr>-->
+<!--    <td>US - 01</td>-->
+<!--    <td>Eu, como usuário do produto, desejo cadastrar uma nova conta na plataforma, para que eu possa realizar login e ter acesso as funcionalidades do sistema</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 02</td>-->
+<!--    <td>Eu, como usuário do produto, desejo realizar login na plataforma, para que eu possa ter acesso às funcionalidades da mesma</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 03</td>-->
+<!--    <td>Eu, como usuário do produto, desejo realizar logout, para que eu possa desconectar a minha conta da plataforma</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 04</td>-->
+<!--    <td>Eu, como usuário do produto, desejo cadastrar uma Meta na minha agenda, para saber ao certo o dia que preciso terminar determinada tarefa</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 05</td>-->
+<!--    <td>Eu, como usuário do produto, desejo editar minhas Metas, para que elas posssam estar sempre atualizadas</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 06</td>-->
+<!--    <td>Eu, como usuário do produto, no momento de cadastrar uma Meta desejo ter a opção de ter a TO-DO list vinculada a esta meta</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 07</td>-->
+<!--    <td>Eu, como usuário do produto, no momento de cadastrar uma Meta desejo escrever sua descrição</td>-->
+<!--    <td align="center">BAIXA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 08</td>-->
+<!--    <td>Eu, como usuário do produto, no momento de cadastrar a Meta desejo ter a opção de receber notificações personalizadas para que possa me programar </td>-->
+<!--    <td align="center">BAIXA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 09</td>-->
+<!--    <td>Eu, como usuário do produto, desejo marcar como completa uma Meta realizada</td>-->
+<!--    <td align="center">MÉDIA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 10</td>-->
+<!--    <td>Eu, como usuário do produto, desejo remover uma Meta, caso eu queira, para poder organizar minha agenda</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 11</td>-->
+<!--    <td>Eu, como usuário de produto, ao criar uma Meta desejo poder escolher cumpri-lá ao longo do dia e em um horário específico</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 12</td>-->
+<!--    <td>Eu, como usuário do produto, desejo cadastrar um Evento na minha agenda, para saber ao certo o dia e hora que tal Evento ocorrerá</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 13</td>-->
+<!--    <td>Eu, como usuário do produto, desejo editar meus Eventos, para que eles posssam estar sempre atualizados</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 14</td>-->
+<!--    <td>Eu, como usuário do produto, desejo poder remover um Evento, caso eu queira, para organizar melhor minha agenda</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 15</td>-->
+<!--    <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo adicionar a hora do Evento</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 16</td>-->
+<!--    <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo adicionar o dia do Evento</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 17</td>-->
+<!--    <td>Eu, como usuário do produto,  no momento de cadastrar um Evento, desejo escolher o nome do Evento, para que eu possa saber o que esse evento está se referindo</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 18</td>-->
+<!--    <td> Eu, como usuário do produto, no momento de cadastrar uma Evento, desejo adicionar uma frequência/periodicidade dessa meta na minha agenda</td>-->
+<!--    <td align="center">MÉDIA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 19</td>-->
+<!--    <td>Eu, como usuário do produto, desejo receber notificações de qualquer Evento com antecedência para que possa me programar.</td>-->
+<!--    <td align="center">BAIXA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 20</td>-->
+<!--    <td>Eu, como usuário do produto, no momento de cadastrar um Evento desejo escolher se será do tipo Aula ou apenas Evento</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 21</td>-->
+<!--    <td>Eu, como usuário do produto,  no momento de cadastrar uma Aula (tipo de Evento), desejo escolher como o horário da minha Aula será cadastrado (código ou horário)</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 22</td>-->
+<!--    <td>Eu, como usuário do produto, desejo de cadastrar uma tarefa na minha TO-DO list, para que eu possa saber o que fazer</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 23</td>-->
+<!--    <td>Eu, como usuário do produto, desejo de editar uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 24</td>-->
+<!--    <td>Eu, como usuário do produto, desejo de excluir uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 25</td>-->
+<!--    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento, para que dessa forma fique claro o que preciso fazer em cada atividade</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 26</td>-->
+<!--    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de uma Meta, para que dessa forma fique claro o que preciso fazer em cada atividade</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 27</td>-->
+<!--    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de um Evento, para que elas posssam estar sempre atualizadas</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 28</td>-->
+<!--    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de uma Meta, para que elas posssam estar sempre atualizadas</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 29</td>-->
+<!--    <td>Eu, como usuário do produto, desejo poder remover uma lista de atividades (TO-DO list) de um Evento ou Meta, caso eu queira, para poder organizar minha agenda</td>-->
+<!--    <td align="center">ALTA</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>US - 30</td>-->
+<!--    <td>Eu, como usuário do produto, desejo saber qual a porcentagem das tarefas que já realizei, para que possa ter uma noção da minha evolução nelas</td>-->
+<!--    <td align="center">MÉDIA</td>-->
+<!--  </tr>-->
+<!--</tbody>-->
+<!--</table>-->
+
+<table style="width:100%">
 <thead>
   <tr>
+    <th>ÉPICO</th>
+    <th>FEATURE</th>
     <th>ID</th>
-    <th>HISTÓRIA (Req. Funcionais )</th>
+    <th>HISTÓRIA</th>
     <th>PRIORIDADE</th>
+    <th>PONTUAÇÃO</th>
   </tr>
 </thead>
 <tbody>
   <tr>
+    <td rowspan="3">Usuários</td>
+    <td rowspan="3">Autenticação</td>
     <td>US - 01</td>
     <td>Eu, como usuário do produto, desejo cadastrar uma nova conta na plataforma, para que eu possa realizar login e ter acesso as funcionalidades do sistema</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 02</td>
     <td>Eu, como usuário do produto, desejo realizar login na plataforma, para que eu possa ter acesso às funcionalidades da mesma</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 03</td>
     <td>Eu, como usuário do produto, desejo realizar logout, para que eu possa desconectar a minha conta da plataforma</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
+    <td rowspan="28">Agenda</td>
+    <td rowspan="9">Gerenciamento de Metas</td>
     <td>US - 04</td>
     <td>Eu, como usuário do produto, desejo cadastrar uma Meta na minha agenda, para saber ao certo o dia que preciso terminar determinada tarefa</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 05</td>
     <td>Eu, como usuário do produto, desejo editar minhas Metas, para que elas posssam estar sempre atualizadas</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 06</td>
-    <td>Eu, como usuário do produto, no momento de cadastrar uma Meta desejo ter a opção de ter a TO-DO list vinculada a esta meta</td>
+    <td>Eu, como usuário do produto, no momento de cadastrar uma Meta, desejo ter a opção de ter a TO-DO list vinculada a esta meta</td>
     <td align="center">ALTA</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US - 07</td>
+    <td>Eu, como usuário do produto, no momento de cadastrar uma Meta desejo escrever sua descrição</td>
+    <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 07</td>
     <td>Eu, como usuário do produto, no momento de cadastrar uma Meta desejo escrever sua descrição</td>
     <td align="center">BAIXA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 08</td>
-    <td>Eu, como usuário do produto, no momento de cadastrar a Meta desejo ter a opção de receber notificações personalizadas para que possa me programar </td>
+    <td>Eu, como usuário do produto, no momento de cadastrar a Meta desejo ter a opção de receber notificações personalizadas para que possa me programar</td>
     <td align="center">BAIXA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 09</td>
     <td>Eu, como usuário do produto, desejo marcar como completa uma Meta realizada</td>
     <td align="center">MÉDIA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 10</td>
     <td>Eu, como usuário do produto, desejo remover uma Meta, caso eu queira, para poder organizar minha agenda</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 11</td>
     <td>Eu, como usuário de produto, ao criar uma Meta desejo poder escolher cumpri-lá ao longo do dia e em um horário específico</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
+    <td rowspan="10">Gerenciamento de Eventos</td>
     <td>US - 12</td>
     <td>Eu, como usuário do produto, desejo cadastrar um Evento na minha agenda, para saber ao certo o dia e hora que tal Evento ocorrerá</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 13</td>
     <td>Eu, como usuário do produto, desejo editar meus Eventos, para que eles posssam estar sempre atualizados</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 14</td>
     <td>Eu, como usuário do produto, desejo poder remover um Evento, caso eu queira, para organizar melhor minha agenda</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 15</td>
     <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo adicionar a hora do Evento</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 16</td>
     <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo adicionar o dia do Evento</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 17</td>
-    <td>Eu, como usuário do produto,  no momento de cadastrar um Evento, desejo escolher o nome do Evento, para que eu possa saber o que esse evento está se referindo</td>
+    <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo escolher o nome do Evento, para que eu possa saber o que esse evento está se referindo</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 18</td>
     <td> Eu, como usuário do produto, no momento de cadastrar uma Evento, desejo adicionar uma frequência/periodicidade dessa meta na minha agenda</td>
-    <td align="center">MÉDIA</td>
+    <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 19</td>
     <td>Eu, como usuário do produto, desejo receber notificações de qualquer Evento com antecedência para que possa me programar.</td>
     <td align="center">BAIXA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 20</td>
     <td>Eu, como usuário do produto, no momento de cadastrar um Evento desejo escolher se será do tipo Aula ou apenas Evento</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 21</td>
-    <td>Eu, como usuário do produto,  no momento de cadastrar uma Aula (tipo de Evento), desejo escolher como o horário da minha Aula será cadastrado (código ou horário)</td>
+    <td>Eu, como usuário do produto, no momento de cadastrar uma Aula (tipo de Evento), desejo escolher como o horário da minha Aula será cadastrado (código ou horário)</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
+    <td rowspan="9">Gerenciamento de TO-DO list</td>
     <td>US - 22</td>
     <td>Eu, como usuário do produto, desejo de cadastrar uma tarefa na minha TO-DO list, para que eu possa saber o que fazer</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 23</td>
     <td>Eu, como usuário do produto, desejo de editar uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 24</td>
     <td>Eu, como usuário do produto, desejo de excluir uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 25</td>
     <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 26</td>
-    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de uma Meta, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
+    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento e Meta , para que dessa forma fique claro o que preciso fazer em cada atividade</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 27</td>
     <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de um Evento, para que elas posssam estar sempre atualizadas</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 28</td>
     <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de uma Meta, para que elas posssam estar sempre atualizadas</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 29</td>
     <td>Eu, como usuário do produto, desejo poder remover uma lista de atividades (TO-DO list) de um Evento ou Meta, caso eu queira, para poder organizar minha agenda</td>
     <td align="center">ALTA</td>
+    <td></td>
   </tr>
   <tr>
     <td>US - 30</td>
     <td>Eu, como usuário do produto, desejo saber qual a porcentagem das tarefas que já realizei, para que possa ter uma noção da minha evolução nelas</td>
     <td align="center">MÉDIA</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
-
-<!--<table style="width:100%">-->
-<!--<thead>-->
-<!--  <tr>-->
-<!--    <th>ÉPICO</th>-->
-<!--    <th>FEATURE</th>-->
-<!--    <th>ID</th>-->
-<!--    <th>HISTÓRIA (Req. Funcionais )</th>-->
-<!--    <th>PRIORIDADE</th>-->
-<!--    <th>PONTUAÇÃO</th>-->
-<!--  </tr>-->
-<!--</thead>-->
-<!--<tbody>-->
-<!--  <tr>-->
-<!--    <td rowspan="4">Usuários</td>-->
-<!--    <td rowspan="2">Autenticação</td>-->
-<!--    <td>US - 01</td>-->
-<!--    <td>Eu, como usuário do produto, desejo realizar login na plataforma, para que eu possa ter acesso às funcionalidades da mesma</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 02</td>-->
-<!--    <td>Eu, como usuário do produto, desejo realizar logout, para que eu possa desconectar a minha conta da plataforma</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td rowspan="2">Perfil</td>-->
-<!--    <td>US - 03</td>-->
-<!--    <td>Eu, como usuário do produto, desejo recuperar a senha do meu perfil, para que eu possa voltar a ter acesso às funcionalidades do sistema caso minha senha seja esquecida</td>-->
-<!--    <td align="center">BAIXA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 04</td>-->
-<!--    <td>Eu, como usuário do produto, desejo alterar os dados do meu perfil, para que eu possa mantê-los sempre atualizados</td>-->
-<!--    <td align="center">MÉDIA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td rowspan="17">Agenda</td>-->
-<!--    <td rowspan="5">Gerenciamento de Metas</td>-->
-<!--    <td>US - 05</td>-->
-<!--    <td>Eu, como usuário do produto, desejo cadastrar uma Meta na minha agenda, para saber ao certo o dia que preciso terminar determinada tarefa</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 06</td>-->
-<!--    <td>Eu, como usuário do produto, desejo editar minhas Metas, para que elas posssam estar sempre atualizadas</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 07</td>-->
-<!--    <td>Eu, como usuário da aplicação, desejo compartilhar metas da minha agenda com outros usuários.</td>-->
-<!--    <td align="center">BAIXA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 08</td>-->
-<!--    <td>Eu, como usuário do produto, desejo receber notificações de qualquer meta com antecedência para que possa me programar.</td>-->
-<!--    <td align="center">MÉDIA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 09</td>-->
-<!--    <td>Eu, como usuário do produto, desejo remover uma Meta, caso eu queira, para poder organizar minha agenda</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td rowspan="8">Gerenciamento de Eventos</td>-->
-<!--    <td>US - 10</td>-->
-<!--    <td>Eu, como usuário do produto, desejo cadastrar um Evento na minha agenda, para saber ao certo o dia e hora que tal Evento ocorrerá</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 11</td>-->
-<!--    <td>Eu, como usuário do produto, desejo editar meus Eventos, para que eles posssam estar sempre atualizados</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 12</td>-->
-<!--    <td>Eu, como usuário do produto, desejo poder remover um Evento, caso eu queira, para organizar melhor minha agenda</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 13</td>-->
-<!--    <td>Eu, como usuário do produto, desejo poder enviar e receber convites de eventos, para que possam já ser adicionados na minha agenda automaticamente, caso aceitos</td>-->
-<!--    <td align="center">BAIXA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 14</td>-->
-<!--    <td> Eu, como usuário do produto, no momento de cadastrar uma Evento, desejo adicionar uma frequência/periodicidade dessa meta na minha agenda</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 15</td>-->
-<!--    <td>Eu, como usuário da aplicação, desejo compartilhar eventos da minha agenda com outros usuários.</td>-->
-<!--    <td align="center">BAIXA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 16</td>-->
-<!--    <td>Eu, como usuário do produto, desejo receber notificações de qualquer evento com antecedência para que possa me programar. Também desejo poder escolher a frequência das notificações</td>-->
-<!--    <td align="center">MÉDIA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 17</td>-->
-<!--    <td>Eu, como usuário do produto, desejo incluir o código do horário no formato fornecido pela UnB e preencher de forma automática na agenda</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td rowspan="4">Gerenciamento de TO-DO list</td>-->
-<!--    <td>US - 18</td>-->
-<!--    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento e Meta , para que dessa forma fique claro o que preciso fazer em cada atividade</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 19</td>-->
-<!--    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists), para que elas posssam estar sempre atualizadas</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 20</td>-->
-<!--    <td>Eu, como usuário do produto, desejo poder remover uma lista de atividades (TO-DO list) de um Evento ou Meta, caso eu queira, para poder organizar minha agenda</td>-->
-<!--    <td align="center">ALTA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--  <tr>-->
-<!--    <td>US - 21</td>-->
-<!--    <td>Eu, como usuário do produto, desejo saber qual a porcentagem das tarefas que já realizei, para que possa ter uma noção da minha evolução nelas</td>-->
-<!--    <td align="center">MÉDIA</td>-->
-<!--    <td></td>-->
-<!--  </tr>-->
-<!--</tbody>-->
-<!--</table>-->
 
 |         Legenda (prioridades)  |Definição 	                                                  |
 | :----------------------------: | :------------------------------------------------------------------------------------ |
