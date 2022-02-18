@@ -379,7 +379,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td>Eu, como usuário do produto, desejo que todas as minhas informações sejam <br>criptografadas </td>
   </tr>
   <tr>
-    <td rowspan="6">Requisitos de Usabilidade</td>
+    <td rowspan="7">Requisitos de Usabilidade</td>
     <td>A agenda deve ser organizada em uma tabela (linhas e colunas), para uma melhor vizualização das minhas atividades</td>
   </tr>
   <tr>
@@ -396,6 +396,9 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>O sistema deve apresentar um calendario em formato Gregoriano</td>
+  </tr>
+  <tr>
+    <td>O sistema deve funcionar apenas com acesso a internet</td>
   </tr>
   <tr>
     <td>Requisito de Portabilidade</td>
