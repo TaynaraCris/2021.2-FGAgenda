@@ -235,7 +235,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>US - 05</td>
-    <td>Eu, como usuário do produto, desejo editar minhas Metas, para que elas posssam estar sempre atualizadas</td>
+    <td>Eu, como usuário do produto, desejo editar minhas Metas, para que elas possam estar sempre atualizadas</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
@@ -284,7 +284,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>US - 13</td>
-    <td>Eu, como usuário do produto, desejo editar meus Eventos, para que eles posssam estar sempre atualizados</td>
+    <td>Eu, como usuário do produto, desejo editar meus Eventos, para que eles possam estar sempre atualizados</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
