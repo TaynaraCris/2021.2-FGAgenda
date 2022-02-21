@@ -227,7 +227,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td rowspan="28">Agenda</td>
-    <td rowspan="9">Gerenciamento de Metas</td>
+    <td rowspan="8">Gerenciamento de Metas</td>
     <td>US - 04</td>
     <td>Eu, como usuário do produto, desejo cadastrar uma Meta na minha agenda, para saber ao certo o dia que preciso terminar determinada tarefa</td>
     <td align="center">ALTA</td>
@@ -242,12 +242,6 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   <tr>
     <td>US - 06</td>
     <td>Eu, como usuário do produto, no momento de cadastrar uma Meta, desejo ter a opção de ter a TO-DO list vinculada a esta meta</td>
-    <td align="center">ALTA</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>US - 07</td>
-    <td>Eu, como usuário do produto, no momento de cadastrar uma Meta desejo escrever sua descrição</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
