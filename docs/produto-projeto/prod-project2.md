@@ -369,13 +369,13 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>US - 27</td>
-    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de um Evento, para que elas posssam estar sempre atualizadas</td>
+    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de um Evento, para que elas possam estar sempre atualizadas</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
     <td>US - 28</td>
-    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de uma Meta, para que elas posssam estar sempre atualizadas</td>
+    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de uma Meta, para que elas possam estar sempre atualizadas</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
@@ -433,7 +433,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td rowspan="7">Requisitos de Usabilidade</td>
-    <td>A agenda deve ser organizada em uma tabela (linhas e colunas), para uma melhor vizualização das minhas atividades</td>
+    <td>A agenda deve ser organizada em uma tabela (linhas e colunas), para uma melhor visualização das minhas atividades</td>
   </tr>
   <tr>
     <td>O produto deve fazer uso de pop-ups</td>
@@ -448,7 +448,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td>O produto deve ser acessível via mobile e Desktop</td>
   </tr>
   <tr>
-    <td>O sistema deve apresentar um calendario em formato Gregoriano</td>
+    <td>O sistema deve apresentar um calendário em formato Gregoriano</td>
   </tr>
   <tr>
     <td>O sistema deve funcionar apenas com acesso a internet</td>
