@@ -471,6 +471,7 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-15
 	* US-16
 	* US-17
+	* US-18
 	* US-20
 	* US-21
 	* US-22
@@ -480,7 +481,6 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-26
 	* US-27
 	* US-28
-	* US-29
 
   
 ## 2. Abordagem de desenvolvimento de software
