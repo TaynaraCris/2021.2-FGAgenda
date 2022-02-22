@@ -426,7 +426,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td>Eu, como usuário do produto, desejo que todas as minhas informações sejam <br>criptografadas </td>
   </tr>
   <tr>
-    <td rowspan="7">Requisitos de Usabilidade</td>
+    <td rowspan="6">Requisitos de Usabilidade</td>
     <td>A agenda deve ser organizada em uma tabela (linhas e colunas), para uma melhor visualização das minhas atividades</td>
   </tr>
   <tr>
@@ -434,9 +434,6 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>Deve ser possível ver tanto a agenda da semana quanto do mês</td>
-  </tr>
-  <tr>
-    <td>O produto deve abrir um pop-up <br>quando para criar uma meta com todos os dias e possíveis <br>frequências</td>
   </tr>
   <tr>
     <td>O produto deve ser acessível via mobile e Desktop</td>
