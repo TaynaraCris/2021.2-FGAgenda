@@ -284,20 +284,9 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td align="center">ALTA</td>
     <td></td>
   </tr>
-    <td>US - 13</td>
-    <td>Eu, como usuário do produto, desejo de cadastrar uma tarefa na minha TO-DO list, para que eu possa saber o que fazer</td>
-    <td align="center">ALTA</td>
-    <td></td>
-  </tr>
   <tr>
-    <td>US - 14</td>
-    <td>Eu, como usuário do produto, desejo editar uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
-    <td align="center">ALTA</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>US - 15</td>
-    <td>Eu, como usuário do produto, desejo de excluir uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
+    <td>US - 12</td>
+    <td>Eu, como usuário do produto, desejo editgar uma lista de tarefas (TO-DO LIST) para que ela esteja sempre atualizada</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
