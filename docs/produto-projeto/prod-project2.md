@@ -209,7 +209,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td rowspan="3">Usuários</td>
     <td rowspan="3">Autenticação</td>
     <td>US - 01</td>
-    <td>Eu, como usuário do produto, desejo cadastrar uma nova conta na plataforma, para que eu possa realizar login e ter acesso as funcionalidades do sistema</td>
+    <td>Eu, como usuário do produto, desejo cadastrar uma nova conta na plataforma, para que eu possa realizar login e ter acesso às funcionalidades do sistema</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
@@ -308,7 +308,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>US - 17</td>
-    <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo escolher o nome do Evento, para que eu possa saber o que esse evento está se referindo</td>
+    <td>Eu, como usuário do produto, no momento de cadastrar um Evento, desejo escolher o nome do Evento, para que eu possa saber a que esse evento está se referindo</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
@@ -320,7 +320,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>US - 19</td>
-    <td>Eu, como usuário do produto, desejo receber notificações de qualquer Evento com antecedência para que possa me programar.</td>
+    <td>Eu, como usuário do produto, desejo receber notificações de qualquer Evento com antecedência para que eu possa me programar.</td>
     <td align="center">BAIXA</td>
     <td></td>
   </tr>
@@ -338,55 +338,49 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td rowspan="9">Gerenciamento de TO-DO list</td>
+    <tr>
     <td>US - 22</td>
+    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO LIST) para estar sempre informado dos meus afazeres</td>
+    <td align="center">ALTA</td>
+    <td></td>
+  </tr>
+    <td>US - 23</td>
     <td>Eu, como usuário do produto, desejo de cadastrar uma tarefa na minha TO-DO list, para que eu possa saber o que fazer</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
-    <td>US - 23</td>
-    <td>Eu, como usuário do produto, desejo de editar uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
-    <td align="center">ALTA</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>US - 24</td>
-    <td>Eu, como usuário do produto, desejo de excluir uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
+    <td>Eu, como usuário do produto, desejo editar uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
     <td>US - 25</td>
-    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
+    <td>Eu, como usuário do produto, desejo de excluir uma tarefa na minha TO-DO list, para que ela possa estar sempre atualizada</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
     <td>US - 26</td>
-    <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO list) dentro de um Evento e Meta , para que dessa forma fique claro o que preciso fazer em cada atividade</td>
+    <td>Eu, como usuário do produto, desejo atrelar uma lista de tarefas (TO-DO list) a um Evento, para que dessa forma fique claro o que preciso fazer em cada atividade</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
     <td>US - 27</td>
-    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de um Evento, para que elas possam estar sempre atualizadas</td>
+    <td>Eu, como usuário do produto, desejo atrelar uma lista de tarefas (TO-DO list) a uma Meta , para que dessa forma fique claro o que preciso fazer em cada atividade</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
     <td>US - 28</td>
-    <td>Eu, como usuário do produto, desejo poder editar minhas lista de tarefas (TO-DO lists) dentro de uma Meta, para que elas possam estar sempre atualizadas</td>
+    <td>Eu, como usuário do produto, excluir uma lista de tarefas (TO-DO LIST), caso eu queira, para poder organizar minha agenda</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
     <td>US - 29</td>
-    <td>Eu, como usuário do produto, desejo poder remover uma lista de atividades (TO-DO list) de um Evento ou Meta, caso eu queira, para poder organizar minha agenda</td>
-    <td align="center">ALTA</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>US - 30</td>
     <td>Eu, como usuário do produto, desejo saber qual a porcentagem das tarefas que já realizei, para que possa ter uma noção da minha evolução nelas</td>
     <td align="center">MÉDIA</td>
     <td></td>
