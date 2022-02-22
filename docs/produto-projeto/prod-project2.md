@@ -286,18 +286,18 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>US - 12</td>
-    <td>Eu, como usuário do produto, desejo editgar uma lista de tarefas (TO-DO LIST) para que ela esteja sempre atualizada</td>
+    <td>Eu, como usuário do produto, desejo editar uma lista de tarefas (TO-DO LIST) para que ela esteja sempre atualizada</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
-    <td>US - 16</td>
+    <td>US - 13</td>
     <td>Eu, como usuário do produto, excluir uma lista de tarefas (TO-DO LIST), caso eu queira, para poder organizar minha agenda</td>
     <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
-    <td>US - 17</td>
+    <td>US - 14</td>
     <td>Eu, como usuário do produto, desejo saber qual a porcentagem das tarefas que já realizei, para que possa ter uma noção da minha evolução nelas</td>
     <td align="center">MÉDIA</td>
     <td></td>
