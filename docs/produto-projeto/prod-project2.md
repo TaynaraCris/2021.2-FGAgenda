@@ -277,7 +277,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
     <td></td>
   </tr>
   <tr>
-    <td rowspan="7">Gerenciamento de TO-DO list</td>
+    <td rowspan="5">Gerenciamento de TO-DO list</td>
     <tr>
     <td>US - 12</td>
     <td>Eu, como usuário do produto, desejo criar uma lista de tarefas (TO-DO LIST) para estar sempre informado dos meus afazeres</td>
