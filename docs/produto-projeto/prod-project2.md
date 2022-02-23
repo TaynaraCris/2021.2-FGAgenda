@@ -1,6 +1,6 @@
 # Visão do Produto e Projeto
 
-#### [Canvas-MVP em formato PDF](FGAgenda-VisaodoCanvas-MVP_1.pdf)
+#### [Canvas-MVP em formato PDF](FGAgenda-Visao/docs/produto-projeto/Canvas-MVP_1.pdf)
 
 ## 1. Visão Geral do Produto
 
@@ -423,7 +423,7 @@ As principais práticas, baseadas no método Scrum, que serão utilizadas pela e
 | Deployment | Criar um link para o projeto poder ser acessado por qualquer pessoa. | Desenvolvedor | Deploy no Github Pages | GitHub Pages |
 | Entregar o produto | Entregar produto (MVPs) para o cliente | Product Owner | Commit no Github | GitHub |
 
-## 3.Visão Geral do Produto
+## 3.VISÃO GERAL DO PRODUTO
 
 ### 3.1 Organização do Projeto
 | Papel | Atribuições | Responsável | Participantes |
