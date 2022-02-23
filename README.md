@@ -28,7 +28,7 @@ Release 17 de janeiro - 3 fevereiro
 
 Release  4 - 24 fevereiro
 
-*[Canvas-MVP em formato PDF](docs/produto-projeto/Canvas-MVP_1.pdf)
+* [Canvas-MVP em formato PDF](docs/produto-projeto/Canvas-MVP_1.pdf)
 * [Visão de produto e projeto - Unidade 2](docs/produto-projeto/prod-project2.md)
 
 # ⚙️ Tecnologias utilizadas
