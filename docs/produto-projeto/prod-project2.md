@@ -393,14 +393,15 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 ### 2.1 Metodologia
 
 A partir dos fatores propostos por Sommerville (SOMMERVILLE, 2011), para avaliação quanto a utilização de uma abordagem dirigida a plano ou ágil, a equipe utilizou os seguintes:
-1. Sistema.
-<p>Nas questões técnicas, o sistema a ser desenvolvido é considerado médio-grande devido ao escopo da aplicação, a qual será realizada para a Web (responsiva) e possui vida útil até o final do semestre 2021/2, pois o produto é focado, principalmente, para os alunos na UnB, portanto, contará com funcionalidades específicas para o público-alvo. Além do que,  as atividades do sistema não precisará passar por análise com o objetivo de verificar se estão de acordo com as normas estabelecidas pelo Governo por Lei, ou seja, não será auditável.</p>
- 2. Equipe.
-<p>O nível de competência da equipe é satisfatório para as tecnologias escolhidas para produzir a aplicação, e como ocorrerá a rotatividade dos desenvolvedores do back-end e do front-end, a equipe pode ser considerada full-stack, ainda tendo como suporte para o sistema as tecnologias: Django/Python, HTML/CSS, PWA, Git/GitHub, Figma, Microsoft Teams, ZenHub. </p>
- 3. Organização.
-<p>Nos aspectos organizacionais, não é necessário uma especificação detalhada dos requisitos antes de começar a implementação, além do que o Product Owner será parte da equipe, e com a entrega de uma funcionalidade da aplicação por semana, o objetivo principal é a valorização do produto como um todo.  
+* 1. Sistema.
+	* <p>Nas questões técnicas, o sistema a ser desenvolvido é considerado médio-grande devido ao escopo da aplicação, a qual será realizada para a Web (responsiva) e possui vida útil até o final do semestre 2021/2, pois o produto é focado, principalmente, para os alunos na UnB, portanto, contará com funcionalidades específicas para o público-alvo. Além do que,  as atividades do sistema não precisará passar por análise com o objetivo de verificar se estão de acordo com as normas estabelecidas pelo Governo por Lei, ou seja, não será auditável.</p>
+ * 2. Equipe.
+	* <p>O nível de competência da equipe é satisfatório para as tecnologias escolhidas para produzir a aplicação, e como ocorrerá a rotatividade dos desenvolvedores do back-end e do front-end, a equipe pode ser considerada full-stack, ainda tendo como suporte para o sistema as tecnologias: Django/Python, HTML/CSS, PWA, Git/GitHub, Figma, Microsoft Teams, ZenHub. </p>
+* 3. Organização.
+	* <p>Nos aspectos organizacionais, não é necessário uma especificação detalhada dos requisitos antes de começar a implementação, além do que o Product Owner será parte da equipe, e com a entrega de uma funcionalidade da aplicação por semana, o objetivo principal é a valorização do produto como um todo.  
 De acordo com as características do produto com relação às questões técnicas, humanas e organizacionais, a metodologia escolhida pela equipe foi a Metodologia Ágil, e dentro dela, o Framework Scrum.  </p>
-Tendo em vista os aspectos do sistema, o Scrum possibilita desenvolver, de maneira mais eficiente,  uma aplicação a partir do tamanho do escopo definido,  médio-grande, em um prazo curto-médio, de 4 a 5 meses, pois a Framework utiliza-se, principalmente, da construção de um Backlog e de Sprints.
+
+* Tendo em vista os aspectos do sistema, o Scrum possibilita desenvolver, de maneira mais eficiente,  uma aplicação a partir do tamanho do escopo definido,  médio-grande, em um prazo curto-médio, de 4 a 5 meses, pois a Framework utiliza-se, principalmente, da construção de um Backlog e de Sprints.
 Com base nos aspectos da equipe, o Scrum se alinha com o conhecimento prévio possuído pelos desenvolvedores. Dado que todos envolvidos no projeto possuem pouca experiência na concepção de softwares complexos, o scrum certamente é uma boa ideia por possibilitar, com certa facilidade, o melhor planejamento da resolução de pendências que eventualmente surgirem no fim de cada sprint.
 Considerando os aspectos da organização, o Scrum possibilita um desenvolvimento do produto sem ter todas as etapas especificadas previamente, isso facilitaria o planejamento de todo o projeto. Além disso, com as sprints semanais a equipe teria uma melhor produtividade e organização de todo o desenvolvimento do produto.      
 As principais práticas, baseadas no método Scrum, que serão utilizadas pela equipe são: planejamento da sprint, daily scrum, sprints de uma semana de duração, retrospectiva da sprint, com sprint review ao final de cada sprint, rotatividade dos papéis de Product Owner e Scrum Master com o objetivo de que cada membro ganhe experiência diferentes de não apenas ser Desenvolvedor, utilização do quadro kanban que será o ZenHub do GitHub, além de pair pairing e planning poker.
@@ -420,16 +421,63 @@ As principais práticas, baseadas no método Scrum, que serão utilizadas pela e
 | Deployment | Criar um link para o projeto poder ser acessado por qualquer pessoa. | Desenvolvedor | Deploy no Github Pages | GitHub Pages |
 | Entregar o produto | Entregar produto (MVPs) para o cliente | Product Owner | Commit no Github | GitHub |
 
-## 3. Lições Aprendidas
+## 3.VISÃO GERAL DO PRODUTO
 
-### 3.1 Unidade 1
+### 3.1 Organização do Projeto
+| Papel | Atribuições | Responsável | Participantes |
+| :-----: | :---------: | :----------: | :----------: |
+| Desenvolvedor Front-End | Codificar o produto, codificar testes unitários, realizar refatoração | Taynara/Luís | Leonardo, Luis, Marcos, Pedro, Taynara |
+| Desenvolvedor Back-End | Codificar funcionalidades e fluxo de controle da aplicação | Marcos | Leonardo, Luis, Marcos, Pedro, Taynara |
+| Líder/Coordenador da equipe de desenvolvimento | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Leonardo | Leonardo, Luis, Marcos, Pedro, Taynara |
+| Testador de Software | Detectar erros, falhas, bugs e outros tipos de problemas. | Pedro | Leonardo, Luis, Marcos, Pedro, Taynara |
+
+### 3.2 Planejamento das Fases e/ou Iterações do Projeto
+Planejamento das Fases e/ou Iterações do Projeto
+
+| Sprint | Produto (Entrega) | Data Início | Data Fim |
+| :-----: | :---------: | :----------: | :----------: |
+| Sprint 1 | Definição do Produto | 18/01/22 | 03/02/22 |
+| Sprint 2 | MVP e Planejamento do Projeto | 08/02/22 | 24/02/22 |
+| Sprint 3 | Protótipo de Tela , Ajustar Ambiente de Desenvolvimento | 28/02/22 | 06/03/22 |
+| Sprint 4 | Cadastrar um Evento, Editar Evento e Remover Evento | 07/03/22 | 13/03/22 |
+| Sprint 5 | Enviar notificações de Eventos, Escolher tipo Aula ou apenas Evento, Adicionar aula por código ou horário | 14/03/22 | 20/03/22 |
+| Sprint 6 | Cadastrar uma Meta, Editar Metas, Cadastrar uma TO-DO list em uma  Meta | 21/03/22 | 27/03/22 |
+| Sprint 7 | Remover uma Meta, Criar uma TO-DO list | 28/03/22 | 03/04/22 |
+| Sprint 8 | Cadastrar tarefa na TO-DO list, Editar tarefa na TO-DO list | 04/04/22 | 10/04/22 |
+| Sprint 9 | Excluir uma lista de tarefas (TO-DO lists), Calcular porcentagem das tarefas que já realizadas | 11/04/22 | 17/04/22 |
+| Sprint 10 | Cadastrar uma nova conta na plataforma, Realizar login na plataforma, Realizar logout | 18/04/22 | 27/04/22 |
+
+### 3.3 Matriz de Comunicação
+
+| Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados |
+| :-----: | :---------: | :----------: | :----------: |
+| Reunião diária para alinhamento da equipe e para levantar dúvidas e avançar com a sprint | Equipe do Projeto | Diário | Não serão gerados produtos. |
+| Reunião semanal para acompanhamento da sprint | Equipe do Projeto | Semanal | Funcionalidades da aplicação |
+| Apresentação do progresso da equipe | Equipe | Professor | Ao fim de cada Módulo | Documentos demandados pelo professor |
+
+### 3.5 Gerenciamento de Riscos
+* Não conseguir entregar o Backlog da sprint
+	* Buscar justificativas do responsável pelas partes não entregues e fornecer a ele o apoio necessário para que consiga realizar suas obrigações na próxima sprint.
+* Membro da equipe trancar a matéria
+	* Comunicação constante entre os membros da equipe para que os outros membros sejam informados com antecedência
+* Baixa Produtividade em semana de prova
+	* Aumentar a produtividade na semana anterior
+
+
+### 3.5 Critérios de Replanejamento
+O produto será replanejado caso entenda-se que o escopo está inadequado, isto é, grande ou pequeno demais para o tempo da matéria e tamanho da equipe. Assim, o replanejamento pode ocorrer caso um aluno saia da matéria, caso as sprints finalizem, com uma frequência alta, incompletas ou caso o produto esteja pronto antes do prazo esperado.
+
+
+## 4. Lições Aprendidas
+
+### 4.1 Unidade 1
 As principais lições aprendidas pela equipe Gama foram: organização e pré-concepção de um projeto de software, diferença entre abordagens ágeis e dirigidas a plano,  disciplinas de Engenharia de Software, Framework Scrum. As ações a serem tomadas para melhorar são: o ambiente de desenvolvimento,  execução das reuniões diárias, definição dos requisitos, criação de protótipos de telas para basear a codificação do site da aplicação e nivelamento dos conhecimentos da equipe.
 
-### 3.2 Unidade 2
-### 3.3 Unidade 3
-### 3.4 Unidade 4
-### 3.5 Unidade 5
+### 4.2 Unidade 2
+### 4.3 Unidade 3
+### 4.4 Unidade 4
+### 4.5 Unidade 5
 
-## 4. Referências Bibliográficas
+## 5. Referências Bibliográficas
 
 SOMMERVILE, I. Processos de software. In: SOMMERVILLE, I. Engenharia de software. 9. ed. rev. São Paulo: Pearson, 2011.
