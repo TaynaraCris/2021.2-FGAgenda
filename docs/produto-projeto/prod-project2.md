@@ -379,19 +379,21 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 O MVP, dentro dos Requisitos Funcionais (RFs) são:
 
 * **Usuários:**
-	* US-01
-	* US-02
-	* US-03
+	* US-01: Cadastrar uma nova conta na plataforma;
+	* US-02: Realizar login na plataforma;
+	* US-03: Realizar logout;
 * **Agenda:**
-	* US-04 
-	* US-05
-	* US-07
-	* US-08
-	* US-09
-	* US-10
-	* US-12
-	* US-13
-	* US-14
+	* US-04: Cadastrar uma Meta;
+	* US-05: Editar Metas;
+	* US-07: Remover uma Meta;
+	* US-08: Cadastrar um Evento;
+	* US-09: Editar Eventos;
+	* US-10: Remover Evento;
+	* US-11: Enviar notificação do evento; 
+	* US-12: Criar uma TO-DO list; 
+	* US-13: Editar uma TO-DO list;
+	* US-14: Excluir uma lista de tarefas (TO-DO lists);
+	* US-15: Calcular porcentagem das tarefas que já realizadas;
 
   
 ## 2. Abordagem de desenvolvimento de software
