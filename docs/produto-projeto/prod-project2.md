@@ -2,6 +2,8 @@
 
 <a href="https://github.com/FGAUnB-MDS-GM/2021.2-FGAgenda/blob/main/docs/produto-projeto/Canvas-MVP/CanvasMVP.jpeg">Canvas MVP</a>
 
+[Backlog do produto (Vídeo)](https://youtu.be/oia5idCENTc)
+
 ## 1. Visão Geral do Produto
 
 ### 1.1 Declaração do Problema
