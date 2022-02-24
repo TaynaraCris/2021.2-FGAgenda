@@ -1,6 +1,6 @@
 # Visão do Produto e Projeto
 
-<a href="./Canvas-MVP/CanvasMVP.jpeg">Canvas MVP</a>
+<a href="https://github.com/FGAUnB-MDS-GM/2021.2-FGAgenda/blob/main/docs/produto-projeto/Canvas-MVP/CanvasMVP.jpeg">Canvas MVP</a>
 
 ## 1. Visão Geral do Produto
 
