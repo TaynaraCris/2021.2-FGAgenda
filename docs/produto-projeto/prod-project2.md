@@ -1,6 +1,6 @@
 # Visão do Produto e Projeto
 
-#### [Canvas-MVP em formato PDF](FGAgenda-Visao-Canvas-MVP_1.pdf)
+#### [Canvas-MVP em formato PDF](Canvas-MVP_1.pdf)
 
 ## 1. Visão Geral do Produto
 
