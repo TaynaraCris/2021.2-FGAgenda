@@ -1,6 +1,10 @@
 # Visão do Produto e Projeto
 
-#### [Canvas-MVP em formato PDF](Canvas-MVP_1.pdf)
+<object data="Canvas-MVP_1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Canvas-MVP_1.pdf">
+        <p><a href="Canvas-MVP_1.pdf">Canvas-MVP em formato PDF</a>.</p>
+    </embed>
+</object>
 
 ## 1. Visão Geral do Produto
 
