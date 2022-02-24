@@ -423,7 +423,7 @@ As principais práticas, baseadas no método Scrum, que serão utilizadas pela e
 | Deployment | Criar um link para o projeto poder ser acessado por qualquer pessoa. | Desenvolvedor | Deploy no Github Pages | GitHub Pages |
 | Entregar o produto | Entregar produto (MVPs) para o cliente | Product Owner | Commit no Github | GitHub |
 
-## 3.VISÃO GERAL DO PRODUTO
+## 3. Visão Geral do Projeto
 
 ### 3.1 Organização do Projeto
 | Papel | Atribuições | Responsável | Participantes |
