@@ -418,7 +418,7 @@ As principais práticas, baseadas no método Scrum, que serão utilizadas pela e
 | Executar Sprint | Concluir todas as atividades determinadas pelo Backlog | Equipe de Desenvolvimento | Distribuição dos requisitos para os membros da equipe | GitHub/ZenHub e Django/Python |
 | Reuniões Diárias | Acompanhar o desenvolvimento das funcionalidades da Sprint. | Equipe de  desenvolvimento | Exposição das atividades realizadas no dia e planejamento do dia seguinte. | Microsoft Teams |
 | Controlar Versões do Produto | Administrar os diferentes branches do produto para que seja possível voltar à versões mais estáveis caso necessário. | Desenvolvedor | Desenvolvimento de novas funcionalidades através do versionamento do projeto. | Git/GitHub |
-| Definição de protótipo de baixa/média fidelidade | Criar protótipos de telas que serão utilizadas como base para desenvolvimento da aplicação web. | Desenvolvedor | | Elaborar páginas que servirão de base para desenvolver front-end. | Figma |
+| Definição de protótipo de baixa/média fidelidade | Criar protótipos de telas que serão utilizadas como base para desenvolvimento da aplicação web. | Desenvolvedor | Elaborar páginas que servirão de base para desenvolver front-end. | Elaborar páginas que servirão de base para desenvolver front-end. | Figma |
 | Criar interface da tela | Concluir as telas da aplicação WEB | Desenvolvedor | Códigos html buscando desenvolver a interface de acordo com o protótipo de baixa/média fidelidade | HTML/CSS | 
 | Deployment | Criar um link para o projeto poder ser acessado por qualquer pessoa. | Desenvolvedor | Deploy no Github Pages | GitHub Pages |
 | Entregar o produto | Entregar produto (MVPs) para o cliente | Product Owner | Commit no Github | GitHub |
