@@ -480,6 +480,9 @@ O produto será replanejado caso entenda-se que o escopo está inadequado, isto 
 As principais lições aprendidas pela equipe Gama foram: organização e pré-concepção de um projeto de software, diferença entre abordagens ágeis e dirigidas a plano,  disciplinas de Engenharia de Software, Framework Scrum. As ações a serem tomadas para melhorar são: o ambiente de desenvolvimento,  execução das reuniões diárias, definição dos requisitos, criação de protótipos de telas para basear a codificação do site da aplicação e nivelamento dos conhecimentos da equipe.
 
 ### 4.2 Unidade 2
+As principais lições aprendidas pela equipe Gama foram: entender o que são os requisitos de um software, identificar e abstrair os requisitos funcionais e não-funcionais do produto, refinar os requisitos funcionais para deixá-los no mesmo nível de granulação, criação do product backlog da aplicação, organizar o backlog conforme a estrutura do SAFE. 
+As ações a serem tomadas para melhorar são: diminuir tempo de duração das reuniões, melhor distribuição de tarefas, criação de protótipos de telas para basear a codificação do site da aplicação, nivelamento dos conhecimentos da equipe, começar o desenvolvimento do frontend e backend, acompanhar o desenvolvimento das issues e cumprir as sprints semanais conforme cronograma.
+
 ### 4.3 Unidade 3
 ### 4.4 Unidade 4
 ### 4.5 Unidade 5
