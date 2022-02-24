@@ -342,7 +342,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   </tr>
   <tr>
     <td>Requisito de segurança da informação</td>
-    <td>Eu, como usuário do produto, desejo que todas as minhas informações sejam <br>criptografadas </td>
+    <td>A senha do login do usuário deverá ser criptografada </td>
   </tr>
   <tr>
     <td rowspan="6">Requisitos de Usabilidade</td>
