@@ -481,7 +481,7 @@ As principais lições aprendidas pela equipe Gama foram: organização e pré-c
 
 ### 4.2 Unidade 2
 <p>As principais lições aprendidas pela equipe Gama foram: entender o que são os requisitos de um software, identificar e abstrair os requisitos funcionais e não-funcionais do produto, refinar os requisitos funcionais para deixá-los no mesmo nível de granulação, criação do product backlog da aplicação, organizar o backlog conforme a estrutura do SAFE.</p> 
-<p>As ações a serem tomadas para melhorar são: diminuir tempo de duração das reuniões, melhor distribuição de tarefas, criação de protótipos de telas para basear a codificação do site da aplicação, nivelamento dos conhecimentos da equipe, começar o desenvolvimento do frontend e backend, acompanhar o desenvolvimento das issues e cumprir as sprints semanais conforme cronograma.</p>
+<p>As ações a serem tomadas para melhorar são: diminuição do tempo de duração das reuniões, melhoramento na distribuição de tarefas, criação de protótipos de telas para basear a codificação do site da aplicação, nivelamento dos conhecimentos da equipe, desenvolvimento do frontend e backend, acompanhamento do desenvolvimento das issues e realização das sprints semanais conforme cronograma.</p>
 
 ### 4.3 Unidade 3
 ### 4.4 Unidade 4
