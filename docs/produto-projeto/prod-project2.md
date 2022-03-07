@@ -255,7 +255,7 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
   <tr>
     <td>US - 06</td>
     <td>Eu, como usuário do produto, desejo marcar como completa uma Meta realizada</td>
-    <td align="center">MÉDIA</td>
+    <td align="center">ALTA</td>
     <td></td>
   </tr>
   <tr>
