@@ -42,7 +42,24 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 
 #### 1.4.1 Requisitos Funcionais
 
-<span style="color:red">Aqui, vocês deveria ter trazido apenas a lista de requisitos funcionais. Vocês fizeram isso, já apresentando os requisitos organizados na estrutura do SAFe. Era para ter sido realizado 2 passos: 1) identificação dos requisitos, 2) organização dos requisitos na estrutura do SAFe. Dessa forma, não é possível saber, por exemplo, se os requisitos que vocês identificaram, inicialmente, foram mapeados para features ou histórias, por exemplo. Pular o passo (1) pode gerar problemas para vcs nas Unidades 3, 4 e 5. Assim, solicito que apresentem a lista de requisitos, independente da organização que irão utilizar (SAFe, PBB, etc).</span>
+#### Lista Requisitos funcionais
+<li>US-01: Cadastrar uma nova conta na plataforma;</li>
+<li>US-02: Realizar login na plataforma;</li>
+<li>US-03: Realizar logout;</li>
+<li>US-04: Cadastrar uma Meta;</li>
+<li>US-05: Editar Metas;</li>
+<li>US-06: Marcar como completa uma Meta realizada;</li>
+<li>US-07: Remover uma Meta;</li>
+<li>US 08: Cadastrar um Evento;</li>
+<li>US-09: Editar Eventos;</li>
+<li>US-10: Remover Evento;</li>
+<li>US-11: Enviar notificações de Eventos;</li>
+<li>US-12: Criar uma TO-DO list;</li>
+<li>US-13: Editar a lista de tarefas (TO-DO list);</li>
+<li>US-14: Excluir uma lista de tarefas (TO-DO lists);</li>
+<li>US-15: Calcular porcentagem das tarefas já realizadas;</li>
+
+#### Requisitos Funcionais - SAFE
 
 <!--<table>-->
 <!--<thead>-->
