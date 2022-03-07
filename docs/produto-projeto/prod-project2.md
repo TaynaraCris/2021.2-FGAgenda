@@ -6,6 +6,8 @@
 
 ## 1. Visão Geral do Produto
 
+<span style="color:red">Muito bom ! Vejam os comentários, a seguir.</span>
+
 ### 1.1 Declaração do Problema
 
 |                                | 	                                                  |
@@ -34,6 +36,8 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 ### 1.4 Escopo do Produto
 
 #### 1.4.1 Requisitos Funcionais
+
+<span style="color:red">Aqui, vocês deveria ter trazido apenas a lista de requisitos funcionais. Vocês fizeram isso, já apresentando os requisitos organizados na estrutura do SAFe. Era para ter sido realizado 2 passos: 1) identificação dos requisitos, 2) organização dos requisitos na estrutura do SAFe. Dessa forma, não é possível saber, por exemplo, se os requisitos que vocês identificaram, inicialmente, foram mapeados para features ou histórias, por exemplo. Pular o passo (1) pode gerar problemas para vcs nas Unidades 3, 4 e 5. Assim, solicito que apresentem a lista de requisitos, independente da organização que irão utilizar (SAFe, PBB, etc).</span>
 
 <!--<table>-->
 <!--<thead>-->
@@ -383,6 +387,9 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 * **Agenda:**
 	* US-04: Cadastrar uma Meta;
 	* US-05: Editar Metas;
+
+<span style="color:red">Por que a US-06, não entra no escopo?</span>
+
 	* US-07: Remover uma Meta;
 	* US-08: Cadastrar um Evento;
 	* US-09: Editar Eventos;
