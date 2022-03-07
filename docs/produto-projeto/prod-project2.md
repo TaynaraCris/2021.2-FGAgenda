@@ -41,7 +41,6 @@ O produto visa facilitar a organização pessoal do usuário com relação a seu
 ### 1.4 Escopo do Produto
 
 #### 1.4.1 Requisitos Funcionais
-
 #### Lista Requisitos funcionais
 <li>US-01: Cadastrar uma nova conta na plataforma;</li>
 <li>US-02: Realizar login na plataforma;</li>
