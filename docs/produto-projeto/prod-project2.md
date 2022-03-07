@@ -2,7 +2,12 @@
 
 <a href="https://github.com/FGAUnB-MDS-GM/2021.2-FGAgenda/blob/main/docs/produto-projeto/Canvas-MVP/CanvasMVP.jpeg">Canvas MVP</a>
 
+<span style="color:red">Colocar a imagem do Canvas MVP, no site</span>
+<span style="color:red">As funcionalidades (US) que estão no CANVAS MVP, não são as mesmas que estão na seção MVP, deste documento. Qual lista é, de fato, o MVP?</span>
+
 [Backlog do produto (Vídeo)](https://youtu.be/oia5idCENTc)
+
+<span style="color:red">KANBAN? Olhei o ZenHub e está, desatualizado.</span>
 
 ## 1. Visão Geral do Produto
 
