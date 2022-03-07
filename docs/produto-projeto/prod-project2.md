@@ -413,11 +413,9 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-08: Cadastrar um Evento;
 	* US-09: Editar Eventos;
 	* US-10: Remover Evento;
-	* US-11: Enviar notificação do evento; 
 	* US-12: Criar uma TO-DO list; 
 	* US-13: Editar uma TO-DO list;
 	* US-14: Excluir uma lista de tarefas (TO-DO lists);
-	* US-15: Calcular porcentagem das tarefas que já realizadas;
 
   
 ## 2. Abordagem de desenvolvimento de software
