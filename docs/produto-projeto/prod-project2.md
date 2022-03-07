@@ -392,9 +392,7 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 * **Agenda:**
 	* US-04: Cadastrar uma Meta;
 	* US-05: Editar Metas;
-
-<span style="color:red">Por que a US-06, não entra no escopo?</span>
-
+	* US-06: Marcar meta como completa;
 	* US-07: Remover uma Meta;
 	* US-08: Cadastrar um Evento;
 	* US-09: Editar Eventos;
