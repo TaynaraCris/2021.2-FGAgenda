@@ -1,7 +1,5 @@
 # Visão do Produto e Projeto
 
-<a href="https://github.com/FGAUnB-MDS-GM/2021.2-FGAgenda/blob/main/docs/produto-projeto/Canvas-MVP/CanvasMVP.jpeg">Canvas MVP</a>
-
 [Backlog do produto (Vídeo)](https://youtu.be/oia5idCENTc)
 
 ## 1. Visão Geral do Produto
@@ -410,6 +408,10 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-13: Editar uma TO-DO list;
 	* US-14: Excluir uma lista de tarefas (TO-DO lists);
 
+Qudro Canvas MVP:
+
+
+<img src="Canvas-MVP/CanvasMVP_Atualizado.png"> 
   
 ## 2. Abordagem de desenvolvimento de software
 
