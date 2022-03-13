@@ -1,6 +1,7 @@
 from django.db import models
 from django.core import validators
 from django.utils.translation import ugettext_lazy as _
+from django.utils import timezone
 
 class Evento(models.Model):
 
@@ -22,4 +23,7 @@ class Evento(models.Model):
         null=True
     )
 
-    
+    data = models.DateTimeField(
+        verbose_name=_("Data"),
+        default=timezone.now
+    )
