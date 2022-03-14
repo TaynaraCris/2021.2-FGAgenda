@@ -43,6 +43,10 @@ Release 4 de fevereiro - 24 fevereiro
 * [Backlog do produto (Vídeo)](https://youtu.be/oia5idCENTc)
 * [Visão de produto e projeto - Unidade 2](produto-projeto/prod-project2.md)
 
+Release 24 de fevereiro - 4 março
+
+* [Visão de produto e projeto - Unidade 3](produto-projeto/prod-project3.md
+
 # ⚙️ Tecnologias utilizadas
 
 As tecnologias foram escolhidas de acordo com as necessidades das atividades a serem desenvolvidas e habilidades dos integrantes do grupo.
