@@ -496,9 +496,9 @@ O produto será replanejado caso entenda-se que o escopo está inadequado, isto 
 ### 3.6 Padrões de Projeto
 O Padrão de Projeto adotado em Phyton se divide em 3 finalidades:
 
-Padrão criacional: Builder que permite a separação da construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes representações.
-Padrões estrutural: Adapter permite que classes com interfaces incompatíveis trabalhem juntas. 
-Padrões comportamental: Interador permite que você percorra elementos de uma coleção sem expor as representações estruturais deles.
+* Padrão criacional: Builder que permite a separação da construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes representações.
+* Padrão estrutural: Adapter permite que classes com interfaces incompatíveis trabalhem juntas. 
+* Padrão comportamental: Interador permite que você percorra elementos de uma coleção sem expor as representações estruturais deles.
 
 ### 3.7 Arquitetura do Django
 
