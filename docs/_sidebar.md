@@ -7,7 +7,10 @@
 - Projeto e Produto
 
   - [Visão do Produto e Projeto](produto-projeto/prod-project.md)
+  
   - [Visão do Produto e Projeto 2](produto-projeto/prod-project2.md)
+
+  - [Visão do Produto e Projeto 3](produto-projeto/prod-project3.md)
 <!--
 ---
 
