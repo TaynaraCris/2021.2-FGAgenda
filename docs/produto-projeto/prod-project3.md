@@ -493,6 +493,15 @@ Planejamento das Fases e/ou Iterações do Projeto
 O produto será replanejado caso entenda-se que o escopo está inadequado, isto é, grande ou pequeno demais para o tempo da matéria e tamanho da equipe. Assim, o replanejamento pode ocorrer caso um aluno saia da matéria, caso as sprints finalizem, com uma frequência alta, incompletas ou caso o produto esteja pronto antes do prazo esperado.
 
 
+### 3.6 Padrões de Projeto
+
+### 3.7 Arquitetura do Django
+
+### 3.8 Diagrama de Classes
+
+### 3.9 Desing de Interface
+
+
 ## 4. Lições Aprendidas
 
 ### 4.1 Unidade 1
