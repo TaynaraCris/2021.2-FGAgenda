@@ -408,10 +408,6 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-13: Editar uma TO-DO list;
 	* US-14: Excluir uma lista de tarefas (TO-DO lists);
 
-Qudro Canvas MVP:
-
-
-<img src="Canvas-MVP/CanvasMVP_Atualizado.png"> 
   
 ## 2. Abordagem de desenvolvimento de software
 
