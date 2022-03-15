@@ -502,6 +502,13 @@ O Padrão de Projeto adotado em Phyton se divide em 3 finalidades:
 * Padrão comportamental: Interador permite que você percorra elementos de uma coleção sem expor as representações estruturais deles.
 
 ### 3.7 Arquitetura do Django
+A arquitetura a ser utilizada é a MVT (Model View Template) e é dividida em três partes:
+
+* Template: É a parte da arquitetura que define como serão apresentados os dados ao usuário. Geralmente é aqui que se encontra o HTML a ser apresentado pelo projeto e, de acordo com a arquitetura, essa parte do projeto se comunica diretamente com o View
+* View: Essa é a parte do projeto que define Quais dados serão apresentados ao usuário, mandando os dados requisitados, por meio de formulários, para o Template. Basicamente, o View é o intermediário entre o Model e o Template.
+* Model: Essa é a parte da arquitetura que se comunica diretamente com o  Banco de dados. Aqui serão descritas as características dos dados, como eles serão armazenados.
+
+O MVT é baseado na arquitetura conhecida como MVC mas, aqui, O Controler é a arquitetura do Django em si.
 
 <img src="Arquitetura_MTV/MVT.jpeg"> 
 
