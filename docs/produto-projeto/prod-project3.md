@@ -408,10 +408,11 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-13: Editar uma TO-DO list;
 	* US-14: Excluir uma lista de tarefas (TO-DO lists);
 
+
 Quadro Canvas MVP:
 
+<!--<img src="Canvas-MVP/CanvasMVP_Atualizado.png">--> 
 ![Quadro Canvas MVP](Canvas-MVP/CanvasMVP_Atualizado.png?raw=true "Title")
-<!-- [comment] <> (<img src="Canvas-MVP/CanvasMVP_Atualizado.png">)  -->
   
 ## 2. Abordagem de desenvolvimento de software
 
@@ -491,6 +492,46 @@ Planejamento das Fases e/ou Iterações do Projeto
 
 ### 3.5 Critérios de Replanejamento
 O produto será replanejado caso entenda-se que o escopo está inadequado, isto é, grande ou pequeno demais para o tempo da matéria e tamanho da equipe. Assim, o replanejamento pode ocorrer caso um aluno saia da matéria, caso as sprints finalizem, com uma frequência alta, incompletas ou caso o produto esteja pronto antes do prazo esperado.
+
+
+### 3.6 Padrões de Projeto
+O Padrão de Projeto adotado em Phyton se divide em 3 finalidades:
+
+* Padrão criacional: Builder que permite a separação da construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes representações.
+* Padrão estrutural: Adapter permite que classes com interfaces incompatíveis trabalhem juntas. 
+* Padrão comportamental: Interador permite que você percorra elementos de uma coleção sem expor as representações estruturais deles.
+
+### 3.7 Arquitetura do Django
+A arquitetura a ser utilizada é a MVT (Model View Template) e é dividida em três partes:
+
+* Template: É a parte da arquitetura que define como serão apresentados os dados ao usuário. Geralmente é aqui que se encontra o HTML a ser apresentado pelo projeto e, de acordo com a arquitetura, essa parte do projeto se comunica diretamente com o View
+* View: Essa é a parte do projeto que define Quais dados serão apresentados ao usuário, mandando os dados requisitados, por meio de formulários, para o Template. Basicamente, o View é o intermediário entre o Model e o Template.
+* Model: Essa é a parte da arquitetura que se comunica diretamente com o  Banco de dados. Aqui serão descritas as características dos dados, como eles serão armazenados.
+
+O MVT é baseado na arquitetura conhecida como MVC mas, aqui, O Controller é a arquitetura do Django em si.
+
+<!-- <p align="center"> -->
+![Arquitetura MTV](Arquitetura_MTV/MVT.jpeg?raw=true "Title")
+<!-- </p> -->
+
+### 3.8 Diagrama de Classes
+
+<!-- <img style:align: center src="diagrama-de-classes/FGAgenda_v1.drawio.png">  -->
+![Diagrama de Classes](diagrama-de-classes/FGAgenda_v1.drawio.png?raw=true "Title")
+<!-- [comment] <> (<img src="Canvas-MVP/CanvasMVP_Atualizado.png">)  -->
+
+
+### 3.9 Desing de Interface
+
+Tela de cadastro:
+![Tela de cadastro](Prototipo_tela/Conta.png?raw=true "Title")
+<!-- <img src="Prototipo_tela/Conta.png"> -->
+Tela de login: 
+![Tela de login](Prototipo_tela/Login.png?raw=true "Title")
+<!-- <img src="Prototipo_tela/Login.png"> -->
+Página principal:
+![Página principal](Prototipo_tela/Principal.png?raw=true "Title")
+<!-- <img src="Prototipo_tela/Principal.png"> -->
 
 
 ## 4. Lições Aprendidas
