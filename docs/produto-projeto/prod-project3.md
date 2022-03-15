@@ -411,7 +411,7 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 
 Quadro Canvas MVP:
 
-<img src="Canvas-MVP/CanvasMVP_Atualizado.png"> 
+<!--<img src="Canvas-MVP/CanvasMVP_Atualizado.png">--> 
 ![Quadro Canvas MVP](Canvas-MVP/CanvasMVP_Atualizado.png?raw=true "Title")
   
 ## 2. Abordagem de desenvolvimento de software
