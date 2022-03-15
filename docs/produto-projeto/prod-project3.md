@@ -514,8 +514,12 @@ O MVT é baseado na arquitetura conhecida como MVC mas, aqui, O Controler é a a
 ### 3.8 Diagrama de Classes
 
 ### 3.9 Desing de Interface
-
-
+<p>Tela de cadastro:</p>
+<img src="Prototipo_tela/Conta.png">
+<p>Tela de login:</p> 
+<img src="Prototipo_tela/Login.png">
+<p>Página principal:</p>
+<img src="Prototipo_tela/Principal.png">
 ## 4. Lições Aprendidas
 
 ### 4.1 Unidade 1
