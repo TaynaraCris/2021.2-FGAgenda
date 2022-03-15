@@ -411,7 +411,6 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 
 Qudro Canvas MVP:
 
-
 <img src="Canvas-MVP/CanvasMVP_Atualizado.png"> 
 
   
@@ -504,9 +503,16 @@ O Padrão de Projeto adotado em Phyton se divide em 3 finalidades:
 
 ### 3.7 Arquitetura do Django
 
+<img src="Arquitetura_MTV/MVT.jpeg"> 
+
 ### 3.8 Diagrama de Classes
 
+
+<img style:align: center src="diagrama-de-classes/FGAgenda_v1.drawio.png"> 
+
+
 ### 3.9 Desing de Interface
+
 
 
 ## 4. Lições Aprendidas
