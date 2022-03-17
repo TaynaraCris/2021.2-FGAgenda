@@ -465,13 +465,13 @@ Planejamento das Fases e/ou Iterações do Projeto
 | Sprint 1 | Definição do Produto | 18/01/22 | 03/02/22 |
 | Sprint 2 | MVP e Planejamento do Projeto | 08/02/22 | 24/02/22 |
 | Sprint 3 | Protótipo de Tela , Ajustar Ambiente de Desenvolvimento | 28/02/22 | 06/03/22 |
-| Sprint 4 | Cadastrar um Evento, Editar Evento e Remover Evento | 07/03/22 | 13/03/22 |
+| Sprint 4 | Cadastrar um Evento(US-08), Editar Evento(US-09) e Remover Evento(US-10) | 07/03/22 | 13/03/22 |
 | Sprint 5 | Enviar notificações de Eventos, Escolher tipo Aula ou apenas Evento, Adicionar aula por código ou horário | 14/03/22 | 20/03/22 |
-| Sprint 6 | Cadastrar uma Meta, Editar Metas, Cadastrar uma TO-DO list em uma  Meta | 21/03/22 | 27/03/22 |
-| Sprint 7 | Remover uma Meta, Criar uma TO-DO list | 28/03/22 | 03/04/22 |
+| Sprint 6 | Cadastrar uma Meta(US-04), Editar Metas(US-05), Cadastrar uma TO-DO list em uma  Meta | 21/03/22 | 27/03/22 |
+| Sprint 7 | Remover uma Meta(US-07), Criar uma TO-DO list(US-12) | 28/03/22 | 03/04/22 |
 | Sprint 8 | Cadastrar tarefa na TO-DO list, Editar tarefa na TO-DO list | 04/04/22 | 10/04/22 |
 | Sprint 9 | Excluir uma lista de tarefas (TO-DO lists), Calcular porcentagem das tarefas que já realizadas | 11/04/22 | 17/04/22 |
-| Sprint 10 | Cadastrar uma nova conta na plataforma, Realizar login na plataforma, Realizar logout | 18/04/22 | 27/04/22 |
+| Sprint 10 | Cadastrar uma nova conta na plataforma(US-01), Realizar login na plataforma(US-02), Realizar logout(US-03) | 18/04/22 | 27/04/22 |
 
 ### 3.3 Matriz de Comunicação
 
