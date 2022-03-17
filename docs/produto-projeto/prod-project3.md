@@ -1,6 +1,6 @@
 # Visão do Produto e Projeto
 
-[Backlog do produto (Vídeo)](https://youtu.be/oia5idCENTc)
+[Backlog do produto (Vídeo)](https://youtu.be/OfbZzerabCA)
 
 ## 1. Visão Geral do Produto
 
