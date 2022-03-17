@@ -473,6 +473,23 @@ Planejamento das Fases e/ou Iterações do Projeto
 | Sprint 9 | Excluir uma lista de tarefas (TO-DO lists), Calcular porcentagem das tarefas que já realizadas | 11/04/22 | 17/04/22 |
 | Sprint 10 | Cadastrar uma nova conta na plataforma(US-01), Realizar login na plataforma(US-02), Realizar logout(US-03) | 18/04/22 | 27/04/22 |
 
+
+
+
+| Sprint | Produto (Entrega) | Data Início | Data Fim |
+| :-----: | :---------: | :----------: | :----------: |
+| Sprint 1 | Definição do Produto | 18/01/22 | 03/02/22 |
+| Sprint 2 | MVP e Planejamento do Projeto | 08/02/22 | 24/02/22 |
+| Sprint 3 | Protótipo de Tela , Ajustar Ambiente de Desenvolvimento | 28/02/22 | 06/03/22 |
+| Sprint 4 | Criar TO-DO List, Editar TO-DO List e excluir TO-DO List | 07/03/22 | 20/03/22 |
+| Sprint 5 | Cadastrar meta, editar meta, excluir meta e marcar meta como completa | 21/03/22 | 27/03/22 |
+| Sprint 6 | cadastrar usuário na plataforma | 28/03/22 | 03/04/22 |
+| Sprint 7 | Realizar login na plataforma, Realizar Logout na plataforma | 04/04/22 | 10/04/22 |
+| Sprint 8 | Enviar notificação de eventos, escolher tipo aula ou evento, adicionar aula por código/horário | 11/04/22 | 17/04/22 |
+| Sprint 9 | Calcular porcentagem da TO-DO List | 18/04/22 | 27/04/22 |
+
+Devido ao atraso no planejamento original, tivemos de replanejar o nosso trabalho, dessa vez, em nove semanas, Percebemos que, devido ao fato de TO-DO List ser um atributo de Meta e evento a mesma deve ser produzida primeiro e, por isso, interrompemos a programação da parte dos eventos para, primeiro, configurar corretamente o funcionamento das TO-DO Lists. Além disso, houve um atraso devido à inexperiência dos envolvidos com a tecnologia Django.
+
 ### 3.3 Matriz de Comunicação
 
 | Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados |
