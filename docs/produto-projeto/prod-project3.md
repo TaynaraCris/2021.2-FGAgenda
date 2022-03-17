@@ -529,8 +529,8 @@ Tela de cadastro:
 Tela de login: 
 ![Tela de login](Prototipo_tela/Login.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Login.png"> -->
-Página principal:
-![Página principal](Prototipo_tela/Principal.png?raw=true "Title")
+Página principal:<br>
+![Página principal](Prototipo_tela/Principal-atualizado.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Principal.png"> -->
 
 
