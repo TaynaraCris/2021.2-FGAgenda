@@ -1,6 +1,6 @@
 # Visão do Produto e Projeto
 
-[Backlog do produto (Vídeo)](https://youtu.be/oia5idCENTc)
+[Backlog do produto (Vídeo)](https://youtu.be/OfbZzerabCA)
 
 ## 1. Visão Geral do Produto
 
@@ -409,10 +409,10 @@ O MVP, dentro dos Requisitos Funcionais (RFs) são:
 	* US-14: Excluir uma lista de tarefas (TO-DO lists);
 
 
-Qudro Canvas MVP:
+Quadro Canvas MVP:
 
-<img src="Canvas-MVP/CanvasMVP_Atualizado.png"> 
-
+<!--<img src="Canvas-MVP/CanvasMVP_Atualizado.png">--> 
+![Quadro Canvas MVP](Canvas-MVP/CanvasMVP_Atualizado.png?raw=true "Title")
   
 ## 2. Abordagem de desenvolvimento de software
 
@@ -508,18 +508,30 @@ A arquitetura a ser utilizada é a MVT (Model View Template) e é dividida em tr
 * View: Essa é a parte do projeto que define Quais dados serão apresentados ao usuário, mandando os dados requisitados, por meio de formulários, para o Template. Basicamente, o View é o intermediário entre o Model e o Template.
 * Model: Essa é a parte da arquitetura que se comunica diretamente com o  Banco de dados. Aqui serão descritas as características dos dados, como eles serão armazenados.
 
-O MVT é baseado na arquitetura conhecida como MVC mas, aqui, O Controler é a arquitetura do Django em si.
+O MVT é baseado na arquitetura conhecida como MVC mas, aqui, O Controller é a arquitetura do Django em si.
 
-<img src="Arquitetura_MTV/MVT.jpeg"> 
+<!-- <p align="center"> -->
+![Arquitetura MTV](Arquitetura_MTV/MVT.jpeg?raw=true "Title")
+<!-- </p> -->
 
 ### 3.8 Diagrama de Classes
 
-
-<img style:align: center src="diagrama-de-classes/FGAgenda_v1.drawio.png"> 
+<!-- <img style:align: center src="diagrama-de-classes/FGAgenda_v1.drawio.png">  -->
+![Diagrama de Classes](diagrama-de-classes/FGAgenda_v1.drawio.png?raw=true "Title")
+<!-- [comment] <> (<img src="Canvas-MVP/CanvasMVP_Atualizado.png">)  -->
 
 
 ### 3.9 Desing de Interface
 
+Tela de cadastro:
+![Tela de cadastro](Prototipo_tela/Conta.png?raw=true "Title")
+<!-- <img src="Prototipo_tela/Conta.png"> -->
+Tela de login: 
+![Tela de login](Prototipo_tela/Login.png?raw=true "Title")
+<!-- <img src="Prototipo_tela/Login.png"> -->
+Página principal:
+![Página principal](Prototipo_tela/Principal.png?raw=true "Title")
+<!-- <img src="Prototipo_tela/Principal.png"> -->
 
 
 ## 4. Lições Aprendidas
