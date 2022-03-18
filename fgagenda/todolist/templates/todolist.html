@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load static %}
+
+<head>
+    <link rel="stylesheet" href="{% static 'css/list_product_types.css' %}">
+</head>
+
+<body>
+    {% for item in todolist %}
+        <p>
+            >>  {{ item.tarefa }}
+        </p>
+    {% endfor %}
+</body>
+
+{% endblock %}
