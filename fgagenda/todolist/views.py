@@ -11,7 +11,18 @@ from django.utils.decorators import method_decorator
 
 # Create your views here.
 
-class ListToDoList(ListView):
-    template_name = "todolist.html"
-    model = ToDoList
+#class ToDoListView(ListView):
+    # template_name = "todolist.html"
+    #model = ToDoList
 
+    #def get(self, request):
+        #return render(request, 'todolist.html.html', {})
+
+    #success_url = reverse_lazy('todolist')
+
+def post_todolist(request):
+    return render(
+        request,
+        'todolist.html',
+        {'todolist':ToDoList.objects.all()}
+    )

@@ -1,11 +1,12 @@
 {% extends 'base.html' %}
 {% load static %}
-
+{% block content %}
 <head>
-    <link rel="stylesheet" href="{% static 'css/list_product_types.css' %}">
+    <!-- <link rel="stylesheet" href="{% static 'css/list_product_types.css' %}"> -->
 </head>
 
 <body>
+    <h1>TO DO LIST</h1>
     {% for item in todolist %}
         <p>
             >>  {{ item.tarefa }}

@@ -2,6 +2,6 @@ from django.apps import AppConfig
 
 
 class TodolistConfig(AppConfig):
-    default_auto_field = 'django.db.models.BigAutoField'
+    #default_auto_field = 'django.db.models.BigAutoField'
     verbose_name = 'TodoList'
     name = 'todolist'
