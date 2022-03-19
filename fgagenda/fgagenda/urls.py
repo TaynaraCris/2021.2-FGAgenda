@@ -19,6 +19,8 @@ from django.urls import path, include
 from .views import *
 
 urlpatterns = [
+    path('', BaseView.as_view(template_name="base.html"), name="home"),
     path('admin/', admin.site.urls),
-    path('',  include('evento.urls'))
+    path('evento/',  include('evento.urls'))
 ]
+
