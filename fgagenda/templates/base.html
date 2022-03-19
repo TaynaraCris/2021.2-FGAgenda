@@ -8,8 +8,7 @@
         <title>FGAgenda</title>
         <link rel="shortcut icon" href="{% static 'icones/favicon1.png'  %}" type="image/x-icon">
         <!-- <link rel="stylesheet" href="base.css"> -->
-        <link rel="stylesheet" href="{% static 'css/base.css' %}">
-        <script src="{% static 'dycalendar.js' %}"></script>   
+        <link rel="stylesheet" href="{% static 'css/base.css' %}">  
         
     </head>
 
@@ -20,31 +19,8 @@
             <!-- src="{% static 'icones/favicon.ico'  %}" -->
        </div>
 
-    <div>
-        <button class="btn btn-color">+ Criar</button>
-    </div>
-    
-    <section>
-        <div class="box">
-          <div class="container">
-            <div id="dycalendar"></div>
-          </div>
-        </div>
-      </section>
-      
-    
-      <!--JS do calendário-->
-      <script src="{% static 'dycalendar.js' %}"></script>
-      <script>
-        dycalendar.draw({
-          target: "#dycalendar",
-          type: "month",
-          dayformat: "full",
-          monthformat: "full",
-          highlighttargetdate: true,
-          prevnextbutton: "show",
-        });
-      </script>
+       {% block content %}
+       {% endblock %}
    
     </body>
 </html>

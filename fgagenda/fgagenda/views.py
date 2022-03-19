@@ -4,3 +4,6 @@ from django.shortcuts import render
 
 class BaseView(TemplateView):
   pass
+
+class Inicio(TemplateView):
+  pass

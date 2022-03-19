@@ -21,6 +21,7 @@ from .views import *
 urlpatterns = [
     path('', BaseView.as_view(template_name="base.html"), name="home"),
     path('admin/', admin.site.urls),
-    path('evento/',  include('evento.urls'))
+    path('evento/',  include('evento.urls')),
+    path('inicio/', Inicio.as_view(template_name="pagina-principal.html"), name="inicio"),
 ]
 
