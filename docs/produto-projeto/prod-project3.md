@@ -491,7 +491,7 @@ versão 2.0:
 | Sprint 8 | Enviar notificação de eventos, escolher tipo aula ou evento, adicionar aula por código/horário | 11/04/22 | 17/04/22 |
 | Sprint 9 | Calcular porcentagem da TO-DO List | 18/04/22 | 27/04/22 |
 
-Devido ao atraso no planejamento original, tivemos de replanejar o nosso trabalho, dessa vez, em nove semanas, Percebemos que, devido ao fato de TO-DO List ser um atributo de Meta e evento a mesma deve ser produzida primeiro e, por isso, interrompemos a programação da parte dos eventos para, primeiro, configurar corretamente o funcionamento das TO-DO Lists. Além disso, houve um atraso devido à inexperiência dos envolvidos com a tecnologia Django.
+Devido ao atraso no planejamento original, tivemos de replanejar o nosso trabalho, dessa vez, em nove semanas. Percebemos que, devido ao fato da TO-DO List ser um atributo de Meta e evento a mesma deve ser produzida primeiro e, por isso, interrompemos a programação da parte dos eventos para, primeiro, configurar corretamente o funcionamento das TO-DO Lists. Além disso, houve um atraso devido à inexperiência dos envolvidos com a tecnologia Django.
 
 ### 3.3 Matriz de Comunicação
 
