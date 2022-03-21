@@ -541,13 +541,13 @@ O MVT é baseado na arquitetura conhecida como MVC mas, aqui, O Controller é a 
 ### 3.9 Desing de Interface
 
 Tela de cadastro:
-![Tela de cadastro](Prototipo_tela/Conta.png?raw=true "Title")
+![Tela de cadastro](Prototipo_tela/nova_conta.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Conta.png"> -->
 Tela de login: 
-![Tela de login](Prototipo_tela/Login.png?raw=true "Title")
+![Tela de login](Prototipo_tela/entrar-agenda.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Login.png"> -->
 Página principal:<br>
-![Página principal](Prototipo_tela/Principal-atualizado.png?raw=true "Title")
+![Página principal](Prototipo_tela/pag-principal.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Principal.png"> -->
 
 
