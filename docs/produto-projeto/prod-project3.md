@@ -564,6 +564,8 @@ As principais lições aprendidas pela equipe Gama foram: organização e pré-c
 <p>As ações a serem tomadas para melhorar são: diminuição do tempo de duração das reuniões, melhoramento na distribuição de tarefas, criação de protótipos de telas para basear a codificação do site da aplicação, nivelamento dos conhecimentos da equipe, desenvolvimento do frontend e backend, acompanhamento do desenvolvimento das issues e realização das sprints semanais conforme cronograma.</p>
 
 ### 4.3 Unidade 3
+<P>As principais funções aprendidas nessa unidade foram: Como planejar melhor, e de maneira lógica, as etapas de de nosso produto, como funciona a arquitetura do Django e como reunir a equipe de maneira mais eficiente, delegando tarefas mais adequadamente.</P>
+<p>Ponto à melhorar para a próxima unidade: Fazer com que todos os membros da equipe estejam presentes nas apresentações ao professor e aulas, dividir melhor as issues e acelerar o ritmo produtivo da equipe</p>
 ### 4.4 Unidade 4
 ### 4.5 Unidade 5
 
