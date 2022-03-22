@@ -31,5 +31,3 @@ def post_todolist(request):
 #    context = {}
 #    context['form'] = ToDoForms
 #    return render(request, 'todolist.html', context)
-
-# "key": "value"

@@ -6,4 +6,3 @@ class ToDoForms(forms.ModelForm):
     class Meta:
         model = ToDoList
         fields = "__all__"
-
