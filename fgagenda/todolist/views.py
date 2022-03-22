@@ -5,15 +5,9 @@ from django.urls import reverse_lazy
 from django.shortcuts import redirect, render
 from django.conf import settings
 from .models import *
-#from .forms import *
-from django.contrib.auth.decorators import login_required
-from django.utils.decorators import method_decorator
-from .forms import ToDoForms
-
-def home_view(request):
-    context ={}
-    context['form']= ToDoForms()
-    return render(request, "teste.html", context)
+from .forms import *
+#from django.contrib.auth.decorators import login_required
+#from django.utils.decorators import method_decorator
 
 # Create your views here.
 
@@ -26,11 +20,14 @@ def home_view(request):
 
     #success_url = reverse_lazy('todolist')
 
-#def post_todolist(request):
- #   return render(
-  #      request,
-   #     'todolist.html',
-    #    {'todolist':ToDoList.objects.all()}
-    #)
+def post_todolist(request):
+    return render(
+        request,
+        'todolist.html',
+        {'todolist':ToDoList.objects.all()}
+    )
 
-
+#def home_view(request):
+#    context = {}
+#    context['form'] = ToDoForms
+#    return render(request, 'todolist.html', context)
