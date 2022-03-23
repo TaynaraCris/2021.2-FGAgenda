@@ -3,7 +3,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-size: 10px;
+  font-size: 15px;
   font-family: "Poppins", sans-serif;
   margin-top: 1px;
 }
@@ -17,7 +17,8 @@ section {
   
 }
 .box {
-  margin-top: -25px;
+  margin-left: 40px;
+  margin-top: -60px;
   position: relative;
   z-index: 1000;
   background-color: rgb(152, 206, 206);
@@ -25,8 +26,8 @@ section {
   
 }
 .container {
-  height: 210px;
-  width: 180px;
+  height: 250px;
+  width: 250px;
   box-shadow: 0 3px 15px rgba(0, 0, 0, 0.5);
   border: 1px solid rgba(122, 114, 114, 0.2);
   border-right: 1px solid rgba(255, 255, 255, 0.2);
@@ -39,25 +40,14 @@ section {
 }
 
 .btn{
-    font-size: 14px;
-    font-family: 'Times New Roman', Times, serif;
-    text-transform: uppercase;
-    font-weight: 300;
-    border: none;
-    padding: 20px 50px;
-    cursor: pointer;
-    margin-top: 30px;
-    box-shadow: 3px 3px rgb(184, 180, 180);
-    
-}
-.btn{
-    font-size: 14px;
+    font-size: 25px;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     border: none;
     padding: 13px 65px;
     cursor: pointer;
     margin-top: 30px;
+    margin-left: 50px;
     box-shadow: 1.5px 1.5px rgb(184, 180, 180);
     
 }
@@ -75,5 +65,59 @@ section {
     top: 5px;
     box-shadow: none;
 }
+.sidebar{
+  background-color: lightgray;
+  margin-top: 20px;
+  height: 790px;
+  width: 350px;
+  margin-left: -8px;
+}
+body{
+
+    
+  font-family: Arial;
+  background: "";
+
+}
+
+ul{
+  
+  padding: 10px;
+  list-style: none;
+  
+}
+
+a{
+  
+  font-size: 20px;
+  margin-left: 100PX;
+  text-decoration: none;
+  color: white;
+  display: block;
+  image-orientation: 10px;
+
+}
+
+a:hover{
+  background-color: rgba(255, 255, 255, .3);
+
+}
+
+.li_p{
+  line-height: 50px;
+
+
+}
+
+.ul_principal{
+  line-height: 30px;
+
+}
+
+ul li ul li{
+  line-height: 30px;
+
+}
+
 
 
