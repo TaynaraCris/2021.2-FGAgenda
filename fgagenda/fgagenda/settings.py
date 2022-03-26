@@ -59,7 +59,8 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
             BASE_DIR / 'templates',
-            'todolist/templates'
+            'todolist/templates',
+            'meta/templates',
         ],
         'APP_DIRS': True,
         'OPTIONS': {

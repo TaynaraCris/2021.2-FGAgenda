@@ -22,5 +22,6 @@ from . views import *
 urlpatterns = [
     path('', BaseView.as_view(template_name="base.html"), name="home"),
     path('todolist/', include('todolist.urls')),
+    path('meta/', include('meta.urls')),
     path('admin/', admin.site.urls),
 ]

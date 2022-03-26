@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}]
+
+<head>
+    <!-- <link rel="stylesheet" href="{% static 'css/list_product_types.css' %}"> -->
+</head>
+
+<body>
+    <h1>META</h1>
+    <!-- {% for item in todolist %}
+        <p>
+            >>  {{ item.tarefa }}
+        </p>
+    {% endfor %} -->
+    <form action = "" method = "post">
+        {% csrf_token %} {{ form.as_p }}
+
+        <!-- <form action = "" method = "post">{% csrf_token %}
+            <input type="text" name="content">
+            <input type="submit" value="Adicionar Tarefa">
+        </form> -->
+
+    <input type="submit" value="Cadastrar Meta">
+    </form>
+</body>
+
+{% endblock %}

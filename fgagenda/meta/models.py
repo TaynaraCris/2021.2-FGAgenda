@@ -3,7 +3,7 @@ from django.core import validators
 from django.utils.translation import ugettext_lazy as _
 from django.utils import timezone
 
-from fgagenda.todolist.models import ToDoList
+from todolist.models import ToDoList
 
 
 class Meta(models.Model):
@@ -12,13 +12,13 @@ class Meta(models.Model):
         verbose_name = _("Meta")
         verbose_name_plural = _("Metas")
 
-    todolist = models.OneToOneField(
+    todolist = models.ForeignKey(
         ToDoList,
         on_delete=models.RESTRICT,
         related_name="todolist",
-        verbose_name = _("Lista de Tarefa"),
+        verbose_name = _("Lista de Tarefas"),
         editable=True,
-        blank=False,
+        blank=True,
         null=True
     )
 
@@ -37,13 +37,14 @@ class Meta(models.Model):
     )
 
     dataInicio = models.DateTimeField(
-        verbose_name=_("Data Inicio"),
+        #verbose_name=_("Data Inicio"),
         default=timezone.now
     )
 
     dataFim = models.DateTimeField(
         verbose_name=_("Data Fim"),
-        blank=True
+        blank=True,
+        null=False,
     )
 
     def configura_data_inicio(self):
