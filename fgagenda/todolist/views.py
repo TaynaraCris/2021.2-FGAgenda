@@ -1,5 +1,6 @@
 from django.views.generic import ListView, DetailView, FormView, View
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
+#from django.core.exceptions import ValidationError
 from django.http import HttpResponseRedirect
 from django.urls import reverse_lazy
 from django.shortcuts import redirect, render
@@ -20,14 +21,28 @@ from .forms import *
 
     #success_url = reverse_lazy('todolist')
 
-def post_todolist(request):
-    return render(
-        request,
-        'todolist.html',
-        {'todolist':ToDoList.objects.all()}
-    )
+#def post_todolist(request):
+#    return render(
+#        request,
+#        'todolist.html',
+#        {'todolist':ToDoList.objects.all()}
+#    )
 
-#def home_view(request):
-#    context = {}
-#    context['form'] = ToDoForms
-#    return render(request, 'todolist.html', context)
+def criar_todo_list(request):
+    context = {}
+    context['form'] = ToDoForms
+    context['all_items'] = ToDoList.objects.all()
+    return render(request, 'todolist.html', context)
+
+def adicionar_tarefa(request):
+    x = request.POST['content']
+   # if (x == NULL):
+    #    raise ValidationError('Impossível adicionar tarefa vazia.')
+    new_item = ToDoList(tarefa = x)
+    new_item.save()
+    return HttpResponseRedirect('/todolist/') 
+
+def deletar_tarefa(request, i):
+    y = ToDoList.objects.get(id=i)
+    y.delete()
+    return HttpResponseRedirect('/todolist/') 

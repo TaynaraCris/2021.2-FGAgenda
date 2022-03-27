@@ -7,16 +7,23 @@
 
 <body>
     <h1>TO DO LIST</h1>
-    {% for item in todolist %}
+    
+    <form action = "/todolist/adicionaTarefa/" method = "post">
+        {% csrf_token %}
+        <input type="text" name="content">
+        <input type="submit" value="Adicionar Tarefa">
+    </form>
+
+    {% for item in all_items %}
         <p>
             >>  {{ item.tarefa }}
+            <form action="/todolist/deletaTarefa/{{item.id}}/" method = "post">
+                {% csrf_token %}
+                <input type="submit" value="Excluir">
+            </form>  
         </p>
     {% endfor %}
-    <!-- <form action = "" method = "post">
-        {% csrf_token %}
-        {{ form }}
-        <input type="submit" value=Submit">
-    </form> -->
+
 </body>
 
 {% endblock %}

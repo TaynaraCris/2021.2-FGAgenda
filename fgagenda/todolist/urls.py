@@ -2,6 +2,8 @@ from django.urls import path
 from .views import *
 
 urlpatterns = [
-  path('', post_todolist, name="post_todolist"),
+  path('', criar_todo_list, name="criar_todo_list"),
+  path('adicionaTarefa/', adicionar_tarefa, name="adicionar_tarefa"),
+  path('deletaTarefa/<int:i>/', deletar_tarefa, name="deletar_tarefa"), 
 ]
 

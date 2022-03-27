@@ -7,7 +7,7 @@ class ToDoList(models.Model):
     """
     Abstract class that represents class 'Component' in Composite Pattern.
     """
-
+    
     class Meta:
         verbose_name = _("Lista de Tarefa")
         verbose_name_plural = _("Lista de Tarefas")
