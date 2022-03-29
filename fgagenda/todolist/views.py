@@ -36,11 +36,29 @@ def criar_todo_list(request):
 
 def adicionar_tarefa(request):
     x = request.POST['content']
-   # if (x == NULL):
+    # if (x == NULL):
     #    raise ValidationError('Impossível adicionar tarefa vazia.')
     new_item = ToDoList(tarefa = x)
     new_item.save()
-    return HttpResponseRedirect('/todolist/') 
+    return HttpResponseRedirect('/todolist/')
+
+def editar_tarefa(request, pk):
+    coteudo_nova_tarefa = request.POST.get('tarefa', False)
+    ToDoList.objects.filter(pk=pk).update(tarefa=coteudo_nova_tarefa)
+    return HttpResponseRedirect('/todolist/')
+    #coteudo_nova_tarefa = request.POST['content']
+    #obj = ToDoList.objects.get(pk=pk)
+    #obj.tarefa = coteudo_nova_tarefa
+    #obj.save()
+
+class Editar_tarefa(UpdateView):
+    template_name='update_product_type.html'
+    model = ToDoList
+
+    fields = [
+        'tarefa'
+    ]
+    success_url = reverse_lazy('criar_todo_list')
 
 def deletar_tarefa(request, i):
     y = ToDoList.objects.get(id=i)

@@ -15,6 +15,7 @@ class ToDoList(models.Model):
     tarefa = models.CharField(
         verbose_name=_("Tarefa"),
         max_length=50,
+        editable=True,
         blank=False,
         null=True
     )
