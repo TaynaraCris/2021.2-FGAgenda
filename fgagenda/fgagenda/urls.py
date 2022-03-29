@@ -23,5 +23,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('evento/',  include('evento.urls')),
     path('inicio/', Inicio.as_view(template_name="pagina-principal.html"), name="inicio"),
+    path('selecionar/', Selecionar.as_view(template_name="meta-evento.html"), name="selecionar")
 ]
 

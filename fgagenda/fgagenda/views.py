@@ -7,3 +7,6 @@ class BaseView(TemplateView):
 
 class Inicio(TemplateView):
   pass
+
+class Selecionar(TemplateView):
+  pass
