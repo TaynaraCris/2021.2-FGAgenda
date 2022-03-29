@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+
 * {
   margin: 0px;
-  padding: 0px;
   box-sizing: border-box;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
@@ -12,13 +12,12 @@ section {
   display: flex;
   justify-content: left;
   align-items: center;
-  min-height: 40vh;
+  min-height: 50vh;
   overflow: hidden;
-  
 }
 .box {
-  margin-left: 40px;
-  margin-top: -60px;
+  margin-left: 8px;
+  margin-top: -110px;
   position: relative;
   z-index: 1000;
   background-color: rgb(152, 206, 206);
@@ -26,8 +25,8 @@ section {
   
 }
 .container {
-  height: 250px;
-  width: 250px;
+  height: 200px;
+  width: 190px;
   box-shadow: 0 3px 15px rgba(0, 0, 0, 0.5);
   border: 1px solid rgba(122, 114, 114, 0.2);
   border-right: 1px solid rgba(255, 255, 255, 0.2);
@@ -40,21 +39,20 @@ section {
 }
 
 .btn{
-    font-size: 25px;
+    font-size: 20px;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     border: none;
-    padding: 13px 65px;
+    padding: 8px 60px;
     cursor: pointer;
-    margin-top: 30px;
-    margin-left: 50px;
+    margin-top: 25px;
+    margin-left: 8px;
     box-shadow: 1.5px 1.5px rgb(184, 180, 180);
-    
 }
 .btn-color{
     background-color: rgb(104, 216, 216);
     color: black;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 .btn-color:hover{
     background-color: rgb(32, 110, 110);
@@ -65,59 +63,54 @@ section {
     top: 5px;
     box-shadow: none;
 }
+
 .sidebar{
   background-color: lightgray;
-  margin-top: 20px;
-  height: 790px;
-  width: 350px;
-  margin-left: -8px;
+  margin-top: -100px;
+  height: 400px;
+  width: 200px;
+  margin-left: 6px;
+  border-radius: 10px;
 }
-body{
 
-    
-  font-family: Arial;
-  background: "";
-
-}
 
 ul{
-  
+
   padding: 10px;
   list-style: none;
-  
+
 }
 
 a{
-  
-  font-size: 20px;
-  margin-left: 100PX;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  margin-left: 40px;
   text-decoration: none;
-  color: white;
+  color: black;
   display: block;
   image-orientation: 10px;
 
 }
 
 a:hover{
+  margin-right: 1150px;
   background-color: rgba(255, 255, 255, .3);
 
 }
 
 .li_p{
-  line-height: 50px;
 
+  line-height: 20px;
 
 }
 
-.ul_principal{
+
+ul li{
+
   line-height: 30px;
 
 }
 
-ul li ul li{
-  line-height: 30px;
-
+#ul_principal{
+  margin-top: -310px;
 }
-
-
-
