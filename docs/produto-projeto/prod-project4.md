@@ -1,6 +1,6 @@
 # Visão do Produto e Projeto
 
-[Apresentação resultados - Unidade 3 (Vídeo)](https://youtu.be/OfbZzerabCA)
+[Apresentação resultados - Unidade 4 (Vídeo)](https://youtu.be/OfbZzerabCA)
 
 ## 1. Visão Geral do Produto
 
@@ -559,6 +559,22 @@ Página para criar evento - US 08, 09, 10, 12, 14:
 Página para criar meta - US 04, 05, 07, 12, 14:
 ![Criar meta](Prototipo_tela/meta.png?raw=true "Title")
 
+### Backlog da Unidade 4
+
+* **Agenda:**
+	* US-04: Cadastrar uma Meta;
+	* US-05: Editar Metas;
+	* US-06: Marcar meta como completa;
+	* US-07: Remover uma Meta;
+	* US-12: Criar uma TO-DO list; 
+	* US-13: Editar uma TO-DO list;
+	* US-14: Excluir uma lista de tarefas (TO-DO lists);
+
+### Pair Pairing
+
+* **Sprint 5:**
+	* Dentro da Sprint 5, foram definidas 2 duplas, sendo uma delas para o back-end (Leonardo e Luís) e a outra para o front-end (Taynara e Pedro), restando então 1 integrate da equipe, Marcos, o qual apoiaria o a 2ª dupla. O critério de formação das duplas foi quem tinha maior afinidade com as tecnologias utilizadas, visando aumentar a produtividade. 
+A dupla do back-end, realizou pair paring no sábado (26/03) e domingo (27/03) durante 2h para realizar de o forms de Meta, sendo o Leonardo o piloto e Luís o co-piloto, no sábado, e invertendo os papéis no domingo. A dupla do front-end não realizou pair pairing, cada um codificou individualmente, não ocorrendo o pair pairing.   
 
 ## 4. Lições Aprendidas
 
