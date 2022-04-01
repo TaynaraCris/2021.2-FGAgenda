@@ -3,8 +3,6 @@ from django.core import validators
 from django.utils.translation import ugettext_lazy as _
 from django.utils import timezone
 
-from todolist.models import ToDoList
-
 
 class Meta(models.Model):
     
@@ -12,15 +10,15 @@ class Meta(models.Model):
         verbose_name = _("Meta")
         verbose_name_plural = _("Metas")
 
-    todolist = models.ForeignKey(
-        ToDoList,
-        on_delete=models.RESTRICT,
-        related_name="todolist",
-        verbose_name = _("Lista de Tarefas"),
-        editable=True,
-        blank=True,
-        null=True
-    )
+    #todolist = models.ForeignKey(
+    #    ToDoList,
+    #    on_delete=models.ForeignObject,
+    #    related_name="todolist",
+    #    verbose_name = _("Lista de Tarefas"),
+    #    editable=True,
+    #    blank=True,
+    #    null=True
+    #)
 
     nome = models.CharField(
         verbose_name=_("Nome"),

@@ -8,20 +8,12 @@
 
 <body>
     <h1>META</h1>
-    <!-- {% for item in todolist %}
-        <p>
-            >>  {{ item.tarefa }}
-        </p>
-    {% endfor %} -->
-    <form action = "" method = "post">
-        {% csrf_token %} {{ form.as_p }}
+    
+    <form action = "" method = "post">{% csrf_token %} 
 
-        <!-- <form action = "" method = "post">{% csrf_token %}
-            <input type="text" name="content">
-            <input type="submit" value="Adicionar Tarefa">
-        </form> -->
+        {{ form.as_p }}
 
-    <input type="submit" value="Cadastrar Meta">
+        <input type="submit" value="Cadastrar Meta">
     </form>
 </body>
 

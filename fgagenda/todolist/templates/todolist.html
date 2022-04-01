@@ -7,33 +7,40 @@
 
 <body>
     <h1>TO DO LIST</h1>
-    
+    <!-- action = "/todolist/adicionaTarefa/" -->
     <form action = "/todolist/adicionaTarefa/" method = "post">
         {% csrf_token %}
-        <input type="text" name="content" required>
-        <input type="submit" value="Adicionar Tarefa">
+        {{ form.as_p }}
+        <!-- <input type="text" name="content" required> -->
+        <input style="display: inline;" type="submit" value="Adicionar Tarefa">
     </form>
 
     {% for item in all_items %}
-        <p>
-            <span>
-                <span>
-                    <!-- >>  {{ item.tarefa|default:"TarefaVazia" }}  -->
-                </span>
-                    <!-- <form method = "post"> -->
-                    <form style="width:20%;margin:auto 0 auto 0; display: inline;"action="/todolist/editaTarefa/{{item.pk}}/" method = "post">
-                        {% csrf_token %}
-                        <input type="text" name="tarefa" value="{{item.tarefa}}" required>
-                        <input type="submit" value="Editar">
-                    </form>
-                <span>
-                    <form style="width:20%; display: inline;" action="/todolist/deletaTarefa/{{item.id}}/" method = "post">
-                        {% csrf_token %}
-                        <input type="submit" value="Excluir">
-                </form>
-                </span>
-            </span>  
-        </p>
+        
+        <!-- {% for meta in metas %} -->
+
+            <!-- {% if item.meta == meta.nome %} -->
+
+                <!-- >>  {{ item.tarefa|default:"TarefaVazia" }}  -->
+        <p>{{ item.tarefa }} </p> >>
+        
+        <!-- <form method = "post">  -->
+        <form style="width:20%;margin:auto 0 auto 0; display: inline;" action="/todolist/editaTarefa/{{item.pk}}/" method = "post">
+            {% csrf_token %}
+            <input type="text" name="content" value="{{item.tarefa}}" required>
+            <input type="submit" value="Editar">
+        </form>
+        
+        <form style="width:20%; display: inline;" action="/todolist/deletaTarefa/{{item.id}}/" method = "post">
+            {% csrf_token %}
+            <input type="submit" value="Excluir">
+        </form>
+
+            
+            <!-- {% endif %} -->
+            
+        <!-- {% endfor %} -->
+
     {% endfor %}
 
 </body>

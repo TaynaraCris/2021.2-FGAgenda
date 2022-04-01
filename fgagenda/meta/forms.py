@@ -2,13 +2,12 @@ from django import forms
 from .models import Meta
 from django.utils import timezone
 
-class CriaMetaForm(forms.ModelForm):
+class MetaForm(forms.ModelForm):
 
     class Meta:
         model = Meta
         fields = [
             'nome',
-            'todolist',
             'descricao',
             'dataFim'
         ]
@@ -16,10 +15,6 @@ class CriaMetaForm(forms.ModelForm):
             'nome': forms.TextInput(attrs={
                 'class': "criar-meta-input",
                 'placeholder': 'Nome da Meta'
-            }),
-            'todolist': forms.Select(attrs={ # Consertar todolist!
-                'class': "criar-meta-input",
-                'placeholder': 'Tarefa'
             }),
             'descricao': forms.Textarea(attrs={
                 'class': "criar-meta-input",
@@ -31,3 +26,4 @@ class CriaMetaForm(forms.ModelForm):
                 'placeholder': timezone.now()
             }),
         }
+    
