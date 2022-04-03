@@ -53,13 +53,13 @@ def adicionar_tarefa(request):
 
 
 def editar_tarefa(request, pk):
-    conteudo_nova_tarefa = request.POST['content']
+    conteudo_nova_tarefa = request.POST['conteudo']
     ToDoList.objects.filter(pk=pk).update(tarefa=conteudo_nova_tarefa)
     return HttpResponseRedirect('/todolist/')
 
 
-def deletar_tarefa(request, i):
-    ToDoList.objects.filter(id=i).delete()
+def deletar_tarefa(request, pk):
+    ToDoList.objects.filter(pk=pk).delete()
     return HttpResponseRedirect('/todolist/') 
 
 #class ListaTarefas(ListView):
