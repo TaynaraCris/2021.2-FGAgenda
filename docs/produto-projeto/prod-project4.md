@@ -484,10 +484,10 @@ versão 2.0:
 | Sprint 1 | Definição do Produto | 18/01/22 | 03/02/22 |
 | Sprint 2 | MVP e Planejamento do Projeto | 08/02/22 | 24/02/22 |
 | Sprint 3 | Protótipo de Tela , Ajustar Ambiente de Desenvolvimento | 28/02/22 | 06/03/22 |
-| Sprint 4 | Criar TO-DO List, Editar TO-DO List e excluir TO-DO List | 07/03/22 | 20/03/22 |
-| Sprint 5 | Cadastrar meta, editar meta, excluir meta e marcar meta como completa | 21/03/22 | 27/03/22 |
-| Sprint 6 | cadastrar usuário na plataforma | 28/03/22 | 03/04/22 |
-| Sprint 7 | Realizar login na plataforma, Realizar Logout na plataforma | 04/04/22 | 10/04/22 |
+| Sprint 4 | Criar TO-DO List (US-12), Editar TO-DO List (US-13) e excluir TO-DO List (US-14) | 07/03/22 | 20/03/22 |
+| Sprint 5 | Cadastrar meta (US-04), editar meta (US-05), excluir meta (US-07) e marcar meta como completa (US-06)| 21/03/22 | 27/03/22 |
+| Sprint 6 | cadastrar usuário na plataforma (US-01)| 28/03/22 | 03/04/22 |
+| Sprint 7 | Realizar login na plataforma (US-02), Realizar Logout na plataforma (US-03)| 04/04/22 | 10/04/22 |
 | Sprint 8 | Enviar notificação de eventos, escolher tipo aula ou evento, adicionar aula por código/horário | 11/04/22 | 17/04/22 |
 | Sprint 9 | Calcular porcentagem da TO-DO List | 18/04/22 | 27/04/22 |
 
