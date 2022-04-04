@@ -347,8 +347,6 @@ versão 2.0:
 | Sprint 8 | Escolher tipo aula ou evento (US-12), adicionar aula por código/horário (US-13)| 11/04/22 | 17/04/22 |
 | Sprint 9 | Calcular porcentagem da TO-DO List (US-17) | 18/04/22 | 27/04/22 |
 
-Devido ao atraso no planejamento original, tivemos de replanejar o nosso trabalho, dessa vez, em nove semanas. Percebemos que, devido ao fato da TO-DO List ser um atributo de Meta e evento a mesma deve ser produzida primeiro e, por isso, interrompemos a programação da parte dos eventos para, primeiro, configurar corretamente o funcionamento das TO-DO Lists. Além disso, houve um atraso devido à inexperiência dos envolvidos com a tecnologia Django.
-
 ### 3.3 Matriz de Comunicação
 
 | Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados |
@@ -444,7 +442,9 @@ As principais lições aprendidas pela equipe Gama foram: organização e pré-c
 ### 4.3 Unidade 3
 <P>As principais funções aprendidas nessa unidade foram: Como planejar melhor, e de maneira lógica, as etapas de de nosso produto, como funciona a arquitetura do Django e como reunir a equipe de maneira mais eficiente, delegando tarefas mais adequadamente.</P>
 <p>Ponto à melhorar para a próxima unidade: Fazer com que todos os membros da equipe estejam presentes nas apresentações ao professor e aulas, dividir melhor as issues e acelerar o ritmo produtivo da equipe</p>
+
 ### 4.4 Unidade 4
+
 ### 4.5 Unidade 5
 
 ## 5. Referências Bibliográficas
