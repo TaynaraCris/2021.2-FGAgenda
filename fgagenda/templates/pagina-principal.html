@@ -12,7 +12,8 @@
 <body>
  
 <div>
-    <button class="btn btn-color">+ Criar</button>
+    <!-- <a href="{% url 'selecionar' %}"><button class="btn btn-color">+ Criar</button></a> -->
+    <button onclick="window.location.href={% url 'selecionar' %};" class="btn btn-color" >+ Criar</button>
 </div>
 
 <section>
@@ -60,13 +61,15 @@
                 Metas
                 <img src="{% static 'icones/seta_branca.png' %}" width="20px">
             </a>
+            
             <ul class="ul_metas">
-                <li><a href="">Link 1</a></li>
-                <li><a href="">Link 2</a></li>
-                <li><a href="">Link 3</a></li>
-
+              {% for item in object_list %}  
+                <li ><a href="">{{ item.meta.nome }}</a></li>
+                <!-- <li><a href="">Link 2</a></li>
+                <li><a href="">Link 3</a></li> -->
+              {% endfor %}
             </ul>
-
+            
         </li>
 
 

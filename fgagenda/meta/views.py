@@ -24,7 +24,7 @@ class MetaView(CreateView):
     def get_objects(self):
         pass
 
-    success_url = reverse_lazy('home')
+    success_url = reverse_lazy('inicio')
     
 #def home_view(request):
 #    context = {}
