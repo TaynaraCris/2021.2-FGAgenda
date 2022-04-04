@@ -10,3 +10,4 @@ class Inicio(TemplateView):
 
 class Selecionar(TemplateView):
   pass
+

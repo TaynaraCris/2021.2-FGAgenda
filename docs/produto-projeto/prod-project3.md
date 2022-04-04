@@ -1,6 +1,6 @@
 # Visão do Produto e Projeto
 
-[Backlog do produto (Vídeo)](https://youtu.be/oia5idCENTc)
+[Apresentação resultados - Unidade 3 (Vídeo)](https://youtu.be/OfbZzerabCA)
 
 ## 1. Visão Geral do Produto
 
@@ -460,18 +460,38 @@ As principais práticas, baseadas no método Scrum, que serão utilizadas pela e
 ### 3.2 Planejamento das Fases e/ou Iterações do Projeto
 Planejamento das Fases e/ou Iterações do Projeto
 
+Versão inicial:
+
 | Sprint | Produto (Entrega) | Data Início | Data Fim |
 | :-----: | :---------: | :----------: | :----------: |
 | Sprint 1 | Definição do Produto | 18/01/22 | 03/02/22 |
 | Sprint 2 | MVP e Planejamento do Projeto | 08/02/22 | 24/02/22 |
 | Sprint 3 | Protótipo de Tela , Ajustar Ambiente de Desenvolvimento | 28/02/22 | 06/03/22 |
-| Sprint 4 | Cadastrar um Evento, Editar Evento e Remover Evento | 07/03/22 | 13/03/22 |
+| Sprint 4 | Cadastrar um Evento(US-08), Editar Evento(US-09) e Remover Evento(US-10) | 07/03/22 | 13/03/22 |
 | Sprint 5 | Enviar notificações de Eventos, Escolher tipo Aula ou apenas Evento, Adicionar aula por código ou horário | 14/03/22 | 20/03/22 |
-| Sprint 6 | Cadastrar uma Meta, Editar Metas, Cadastrar uma TO-DO list em uma  Meta | 21/03/22 | 27/03/22 |
-| Sprint 7 | Remover uma Meta, Criar uma TO-DO list | 28/03/22 | 03/04/22 |
+| Sprint 6 | Cadastrar uma Meta(US-04), Editar Metas(US-05), Cadastrar uma TO-DO list em uma  Meta | 21/03/22 | 27/03/22 |
+| Sprint 7 | Remover uma Meta(US-07), Criar uma TO-DO list(US-12) | 28/03/22 | 03/04/22 |
 | Sprint 8 | Cadastrar tarefa na TO-DO list, Editar tarefa na TO-DO list | 04/04/22 | 10/04/22 |
 | Sprint 9 | Excluir uma lista de tarefas (TO-DO lists), Calcular porcentagem das tarefas que já realizadas | 11/04/22 | 17/04/22 |
-| Sprint 10 | Cadastrar uma nova conta na plataforma, Realizar login na plataforma, Realizar logout | 18/04/22 | 27/04/22 |
+| Sprint 10 | Cadastrar uma nova conta na plataforma(US-01), Realizar login na plataforma(US-02), Realizar logout(US-03) | 18/04/22 | 27/04/22 |
+
+Devido ao atraso no planejamento original, tivemos de replanejar o nosso trabalho, dessa vez, em nove semanas, Percebemos que, devido ao fato de TO-DO List ser um atributo de Meta e evento a mesma deve ser produzida primeiro e, por isso, interrompemos a programação da parte dos eventos para, primeiro, configurar corretamente o funcionamento das TO-DO Lists. Além disso, houve um atraso devido à inexperiência dos envolvidos com a tecnologia Django.
+
+versão 2.0:
+
+| Sprint | Produto (Entrega) | Data Início | Data Fim |
+| :-----: | :---------: | :----------: | :----------: |
+| Sprint 1 | Definição do Produto | 18/01/22 | 03/02/22 |
+| Sprint 2 | MVP e Planejamento do Projeto | 08/02/22 | 24/02/22 |
+| Sprint 3 | Protótipo de Tela , Ajustar Ambiente de Desenvolvimento | 28/02/22 | 06/03/22 |
+| Sprint 4 | Criar TO-DO List, Editar TO-DO List e excluir TO-DO List | 07/03/22 | 20/03/22 |
+| Sprint 5 | Cadastrar meta, editar meta, excluir meta e marcar meta como completa | 21/03/22 | 27/03/22 |
+| Sprint 6 | cadastrar usuário na plataforma | 28/03/22 | 03/04/22 |
+| Sprint 7 | Realizar login na plataforma, Realizar Logout na plataforma | 04/04/22 | 10/04/22 |
+| Sprint 8 | Enviar notificação de eventos, escolher tipo aula ou evento, adicionar aula por código/horário | 11/04/22 | 17/04/22 |
+| Sprint 9 | Calcular porcentagem da TO-DO List | 18/04/22 | 27/04/22 |
+
+Devido ao atraso no planejamento original, tivemos de replanejar o nosso trabalho, dessa vez, em nove semanas. Percebemos que, devido ao fato da TO-DO List ser um atributo de Meta e evento a mesma deve ser produzida primeiro e, por isso, interrompemos a programação da parte dos eventos para, primeiro, configurar corretamente o funcionamento das TO-DO Lists. Além disso, houve um atraso devido à inexperiência dos envolvidos com a tecnologia Django.
 
 ### 3.3 Matriz de Comunicação
 
@@ -524,13 +544,13 @@ O MVT é baseado na arquitetura conhecida como MVC mas, aqui, O Controller é a 
 ### 3.9 Desing de Interface
 
 Tela de cadastro:
-![Tela de cadastro](Prototipo_tela/Conta.png?raw=true "Title")
+![Tela de cadastro](Prototipo_tela/nova_conta.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Conta.png"> -->
 Tela de login: 
-![Tela de login](Prototipo_tela/Login.png?raw=true "Title")
+![Tela de login](Prototipo_tela/entrar-agenda.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Login.png"> -->
-Página principal:
-![Página principal](Prototipo_tela/Principal.png?raw=true "Title")
+Página principal:<br>
+![Página principal](Prototipo_tela/pag-principal.png?raw=true "Title")
 <!-- <img src="Prototipo_tela/Principal.png"> -->
 
 
@@ -544,6 +564,8 @@ As principais lições aprendidas pela equipe Gama foram: organização e pré-c
 <p>As ações a serem tomadas para melhorar são: diminuição do tempo de duração das reuniões, melhoramento na distribuição de tarefas, criação de protótipos de telas para basear a codificação do site da aplicação, nivelamento dos conhecimentos da equipe, desenvolvimento do frontend e backend, acompanhamento do desenvolvimento das issues e realização das sprints semanais conforme cronograma.</p>
 
 ### 4.3 Unidade 3
+<P>As principais funções aprendidas nessa unidade foram: Como planejar melhor, e de maneira lógica, as etapas de de nosso produto, como funciona a arquitetura do Django e como reunir a equipe de maneira mais eficiente, delegando tarefas mais adequadamente.</P>
+<p>Ponto à melhorar para a próxima unidade: Fazer com que todos os membros da equipe estejam presentes nas apresentações ao professor e aulas, dividir melhor as issues e acelerar o ritmo produtivo da equipe</p>
 ### 4.4 Unidade 4
 ### 4.5 Unidade 5
 
