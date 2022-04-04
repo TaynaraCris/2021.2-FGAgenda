@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-c_)ibx(u5ifkk74_=v146z+pqss2kbhs1%pv$rm0w1_ra1k$32
 DEBUG = True
 #DEBUG = False
 
+
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 
@@ -39,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'todolist',
-    'meta'
+    'meta',
+    'evento'
 ]
 
 MIDDLEWARE = [
@@ -61,6 +63,7 @@ TEMPLATES = [
             BASE_DIR / 'templates',
             'todolist/templates',
             'meta/templates',
+            'evento/templates'
         ],
         'APP_DIRS': True,
         'OPTIONS': {
