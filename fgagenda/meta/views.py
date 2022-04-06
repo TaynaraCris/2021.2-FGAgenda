@@ -5,28 +5,25 @@ from django.http import HttpResponseRedirect
 from django.urls import reverse_lazy
 from django.shortcuts import redirect, render
 from django.conf import settings
+from django.utils.timezone import datetime
 from .models import *
 from .forms import *
 from todolist.forms import *
 
-class MetaView(CreateView):
+class CriaMeta(CreateView):
     template_name = 'criar_meta.html'
     model = Meta
-    form_class = MetaForm
-
-    def get_context_data(self):
-        context = {}
-        #context['todoform'] = ToDoForms
-        context['form'] = MetaForm
-        context['all_items'] = ToDoList.objects.all()
-        return context
-
-    def get_objects(self):
-        pass
+    form_class = CriaMetaForm
 
     success_url = reverse_lazy('inicio')
     
-#def home_view(request):
-#    context = {}
-#    context['form'] = ToDoForms
-#    return render(request, 'todolist.html', context)
+
+class EditaMeta(UpdateView):
+    template_name='editar_meta.html'
+    model = Meta
+
+    form_class = EditaMetaForm
+    
+    success_url = reverse_lazy('inicio')
+
+    

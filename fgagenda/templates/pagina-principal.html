@@ -13,7 +13,7 @@
  
 <div>
     <!-- <a href="{% url 'selecionar' %}"><button class="btn btn-color">+ Criar</button></a> -->
-    <button onclick="window.location.href={% url 'selecionar' %};" class="btn btn-color" >+ Criar</button>
+    <button onclick="location.href='{% url 'selecionar' %}'" class="btn btn-color" >+ Criar</button>
 </div>
 
 <section>
@@ -64,7 +64,7 @@
             
             <ul class="ul_metas">
               {% for item in object_list %}  
-                <li ><a href="">{{ item.meta.nome }}</a></li>
+                <li ><a href="{% url 'editar_meta' item.meta.id %}">{{ item.meta.nome }}</a></li>
                 <!-- <li><a href="">Link 2</a></li>
                 <li><a href="">Link 3</a></li> -->
               {% endfor %}
