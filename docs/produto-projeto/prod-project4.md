@@ -426,7 +426,6 @@ Página para criar meta - US 04, 05, 07, 12, 14:
 
 ### Pair Pairing
 
-* **Sprint 5:**
 	* O projeto iniciou e foram definidas 2 duplas, sendo uma delas para o back-end (Leonardo e Luís) e a outra para o front-end (Taynara e Pedro), restando então 1 integrate da equipe, Marcos, o qual apoiaria o a 2ª dupla. O critério de formação das duplas foi quem tinha maior afinidade com as tecnologias utilizadas, visando aumentar a produtividade. 
 	* A dupla do back-end, realizou pair paring aos sábados e domingos  durante 2h para realização da sprint da semana, sendo o Leonardo o piloto e Luís o co-piloto, invertendo os papéis a cada fim de semana. Foi introduzido a refatoração do código, para deixa-lo mais facil de entender e melhor de achar eventuais bugs.
 	* A dupla de front-end (Taynara e Pedro) não realizou o Pair Pairing, decidiu dividir as atividades em tarefas individuais diárias, tirando a duvida de qualquer eventual dificuldades nas reuniões. 
