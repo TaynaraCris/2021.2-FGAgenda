@@ -87,7 +87,7 @@ a{
   margin-left: 40px;
   text-decoration: none;
   color: black;
-  display: block;
+  display: inline-block;
   image-orientation: 10px;
 
 }
@@ -113,4 +113,8 @@ ul li{
 
 #ul_principal{
   margin-top: -310px;
+}
+
+.lista_metas{
+  display: inline;
 }
