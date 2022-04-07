@@ -21,9 +21,13 @@ class CriaMeta(CreateView):
 class EditaMeta(UpdateView):
     template_name='editar_meta.html'
     model = Meta
-
     form_class = EditaMetaForm
     
     success_url = reverse_lazy('inicio')
 
+
+class DeletaMeta(DeleteView):
+    template_name = 'deletar_meta.html'
+    queryset = Meta.objects.all()
     
+    success_url = reverse_lazy('inicio')
